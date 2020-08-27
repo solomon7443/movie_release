@@ -84,10 +84,10 @@
 					AddPoster(a,movie["poster"]);
 					td.appendChild(a);
 				}else{
-					var p = document.createElement("p");
-					p.innerText = movie["title"];
-					AddPoster(p,movie["poster"]);
-					td.appendChild(p);
+					var div = document.createElement("div");
+					div.innerText = movie["title"];
+					AddPoster(div,movie["poster"]);
+					td.appendChild(div);
 				}
 				tr.appendChild(td);
 				
