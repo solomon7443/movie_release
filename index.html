@@ -8,6 +8,7 @@
 		<table class="movie_table">
 			<thead>
 				<tr>
+					<th></th>
 					<th>제목</th>
 					<th>날짜</th>
 					<th>감독</th>
@@ -38,7 +39,9 @@
 				var sets = Pair.split('\t');
 				
 				var td = document.createElement("td");
-				td.innerText = sets[0];
+				var img = document.createElement("img");
+				img.src = "./"+sets[0];
+				td.appendChild(img);
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
@@ -47,6 +50,10 @@
 				
 				var td = document.createElement("td");
 				td.innerText = sets[2];
+				tr.appendChild(td);
+				
+				var td = document.createElement("td");
+				td.innerText = sets[3];
 				tr.appendChild(td);
 				
 				tbody.appendChild(tr);
