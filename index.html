@@ -52,6 +52,7 @@
 			
 			var table = document.querySelector("table.movie_table");
 			var tbody = table.children[1];
+			var body = document.querySelector("body");
 			
 			var Res = loadFile('./movie.json'+ '?' + (new Date()).getTime());;
 			Res = JSON.parse(Res);
@@ -74,6 +75,7 @@
 					var a = document.createElement("a");
 					a.href = movie["trailer"]
 					a.innerText = movie["title"];
+					AddPoster(a);
 					td.appendChild(a);
 				}else{
 					td.innerText = movie["title"];
@@ -98,7 +100,25 @@
 				tbody.appendChild(tr);
 			});
 			
-			
+			function AddPoster(element){
+				element.addEventListener('mouseenter',function(event){
+					var poster = document.createElement("img");
+					poster.id = "poster";
+					poster.src = './poster/엑스맨-뉴 뮤턴트.jpg'
+					body.appendChild(poster);
+				});
+				element.addEventListener('mousemove',function(event){
+					var mousex = event.clientX + 24;
+					var mousey = event.clientY + 16;
+					var poster = document.querySelector("img#poster");
+					poster.style.top = mousex;
+					poster.style.left = mousex;
+				});
+				element.addEventListener('mouseleave',function(event){
+					var poster = document.querySelector("img#poster");
+					poster.parentNode.removeChild(poster);
+				});
+			}
 		</script>
 	</body>
 </html>
