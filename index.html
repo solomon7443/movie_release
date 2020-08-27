@@ -81,14 +81,13 @@
 					var a = document.createElement("a");
 					a.href = movie["trailer"]
 					a.innerText = movie["title"];
-					AddPoster(a,movie["poster"]);
 					td.appendChild(a);
 				}else{
 					var div = document.createElement("div");
 					div.innerText = movie["title"];
-					AddPoster(div,movie["poster"]);
 					td.appendChild(div);
 				}
+				AddPoster(td,movie["poster"]);
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
