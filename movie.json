@@ -13,7 +13,8 @@
 				}
 			],
 			"trailer": "https://youtu.be/-01Lmk0RKDI",
-			"cast": []
+			"cast": [],
+			"poster": "엑스맨-뉴 뮤턴트.jpg"
 		},
 		{
 			"title": "뮬란",
@@ -33,7 +34,8 @@
 				"유역비",
 				"견자단",
 				"이연결"
-			]
+			],
+			"poster": "뮬란.jpg"
 		},
 		{
 			"title": "에놀라 홈즈",
@@ -51,7 +53,8 @@
 			"cast": [
 				"밀리 바비 브라운",
 				"헨리 카빌"
-			]
+			],
+			"poster": "에놀라 홈즈.jpg"
 		},
 		{
 			"title": "킹스맨: 퍼스트 에이전트",
@@ -68,7 +71,8 @@
 			"trailer": "https://youtu.be/Wn7hhseWbmU",
 			"cast": [
 				"해리스 디킨슨"
-			]
+			],
+			"poster": "캥스맨-퍼스트 에이전트.jpg"
 		},
 		{
 			"title": "귀멸의 칼날: 무한열차 편",
@@ -83,7 +87,8 @@
 				}
 			],
 			"trailer": "https://youtu.be/lZRgPy_iRrY",
-			"cast": []
+			"cast": [],
+			"poster": "귀멸의 칼날-무한열차 편.jpg"
 		},
 		{
 			"title": "듄",
@@ -100,7 +105,8 @@
 			"trailer": "",
 			"cast": [
 				"제이슨 모모아"
-			]
+			],
+			"poster": "듄.jpg"
 		},
 		{
 			"title": "나일강의 죽음",
@@ -119,7 +125,8 @@
 				"케네스 브래너",
 				"캘 가돗",
 				"엠마 맥키"
-			]
+			],
+			"poster": "나일강의 죽음.jpg"
 		},
 		{
 			"title": "원더우먼 1984",
@@ -137,7 +144,8 @@
 			"cast": [
 				"갤 가돗",
 				"크리스 파인"
-			]
+			],
+			"poster": "원더우먼 1984.jpg"
 		},
 		{
 			"title": "블랙 위도우",
@@ -154,7 +162,8 @@
 			"trailer": "https://youtu.be/BOEVQSprNv4",
 			"cast": [
 				"스칼렛 요한슨"
-			]
+			],
+			"poster": "블랙 위도우.jpg"
 		},
 		{
 			"title": "소울",
@@ -173,7 +182,8 @@
 				}
 			],
 			"trailer": "https://youtu.be/xOsLIiBStEs",
-			"cast": []
+			"cast": [],
+			"poster": "소울.jpg"
 		},
 		{
 			"title": "이터널스",
@@ -191,7 +201,8 @@
 			"cast": [
 				"마동석",
 				"안젤리나 졸리"
-			]
+			],
+			"poster": "이터널스.jpg"
 		},
 		{
 			"title": "모비우스",
@@ -212,7 +223,8 @@
 			"trailer": "https://youtu.be/WYXhvWOn0Y8",
 			"cast": [
 				"자레드 레토"
-			]
+			],
+			"poster": "모비우스.jpg"
 		},
 		{
 			"title": "더 배트맨",
@@ -231,10 +243,11 @@
 				"로버트 패틴슨",
 				"폴 다노",
 				"제프리 라이트"
-			]
+			],
+			"poster": "더 배트맨.jpg"
 		},
 		{
-			"title": "스파이더맨:홈시크",
+			"title": "스파이더맨 3",
 			"release": "2021년 11월 5일",
 			"director": [
 				"존 왓츠"
@@ -248,7 +261,8 @@
 			"trailer": "",
 			"cast": [
 				"톰 홀랜드"
-			]
+			],
+			"poster": "스파이더맨 3.jpg"
 		},
 		{
 			"title": "신비한 동물사전3",
@@ -267,7 +281,8 @@
 				"에디 레드메인",
 				"조니 뎁",
 				"주드 로"
-			]
+			],
+			"poster": "신비한 동물사전 3.jpg"
 		},
 		{
 			"title": "스나이더의 저스티스 리그",
@@ -282,7 +297,8 @@
 				}
 			],
 			"trailer": "https://youtu.be/z6512XKKNkU",
-			"cast": []
+			"cast": [],
+			"poster": "스나이더의 저스티스 리그.jpg"
 		},
 		{
 			"title": "아바타 2",
@@ -297,7 +313,8 @@
 				}
 			],
 			"trailer": "",
-			"cast": []
+			"cast": [],
+			"poster": "아바타.jpg"
 		},
 		{
 			"title": "승리호",
@@ -317,7 +334,8 @@
 				"김태리",
 				"진선규",
 				"유해진"
-			]
+			],
+			"poster": "승리호.jpg"
 		}
 	]
 }
