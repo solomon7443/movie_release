@@ -20,6 +20,12 @@
 				text-align:right;
 			}
 			div.search-table-outter { overflow-x: auto; }
+			#poster{
+				position:absolute;
+				padding:5px;
+				z-index: 9999;
+				background-color:transparent;
+			}
 		</style>
 	</head>
 	<body>
@@ -112,7 +118,7 @@
 					var mousey = event.clientY + 16;
 					var poster = document.querySelector("img#poster");
 					poster.style.top = mousex;
-					poster.style.left = mousex;
+					poster.style.left = mousey;
 				});
 				element.addEventListener('mouseleave',function(event){
 					var poster = document.querySelector("img#poster");
