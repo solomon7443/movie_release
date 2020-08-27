@@ -29,6 +29,7 @@
 					<th>제목</th>
 					<th>날짜</th>
 					<th>감독</th>
+					<th>주연</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -81,6 +82,11 @@
 				
 				var td = document.createElement("td");
 				td.innerText = movie["director"].join(', ')
+				td.style.cssText = "text-align:right"; 
+				tr.appendChild(td);
+				
+				var td = document.createElement("td");
+				td.innerText = movie["cast"].join(', ')
 				td.style.cssText = "text-align:right"; 
 				tr.appendChild(td);
 				
