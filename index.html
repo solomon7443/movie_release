@@ -6,7 +6,8 @@
 		<style>
 			a:link, a:visited {
 				color: black;
-				cursor: auto;
+				text-decoration: none;
+				cursor: pointer;
 			}
 
 			a:link:active, a:visited:active {
@@ -42,32 +43,34 @@
 			var table = document.querySelector("table.movie_table");
 			var tbody = table.children[1];
 			
-			var Req = loadFile('./movie.txt'+ '?' + (new Date()).getTime());;
-			Req = Req.split('\n')
-			Req.forEach(function(Pair){
+			var Req = loadFile('./movie.json'+ '?' + (new Date()).getTime());;
+			Res = JSON.parse(Res);
+			Res["movies"].forEach(function(movie){
 				var tr = document.createElement("tr");
-				var sets = Pair.split('\t');
 				
 				var td = document.createElement("td");
 				var img = document.createElement("img");
-				img.src = "./logo/"+sets[0];
-				td.appendChild(img);
+				movie["distribution"].forEach(function(distrib){
+					img.src = "./logo/"+distrib["logo"];
+					img.title = distrib["company"];
+					td.appendChild(img);
+				});
 				td.style.cssText = "text-align:right"; 
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
 				var a = document.createElement("a");
-				a.href = sets[4]
-				a.innerText = sets[1];
+				a.href = movie["trailer"]
+				a.innerText = movie["title"];
 				td.appendChild(a);
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
-				td.innerText = sets[2];
+				td.innerText = movie["release"];
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
-				td.innerText = sets[3];
+				td.innerText = movie["director"].join(', ')
 				td.style.cssText = "text-align:right"; 
 				tr.appendChild(td);
 				
