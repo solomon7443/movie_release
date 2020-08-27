@@ -49,8 +49,8 @@
 				var tr = document.createElement("tr");
 				
 				var td = document.createElement("td");
-				var img = document.createElement("img");
 				movie["distribution"].forEach(function(distrib){
+					var img = document.createElement("img");
 					img.src = "./logo/"+distrib["logo"];
 					img.title = distrib["company"];
 					td.appendChild(img);
