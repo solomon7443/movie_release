@@ -29,6 +29,9 @@
 				z-index: 9999;
 				background-color:transparent;
 			}
+			tr#delayed{
+				background-color: #ff3a33;
+			}
 		</style>
 	</head>
 	<body>
@@ -108,6 +111,15 @@
 				td.innerText = movie["cast"].join(', ')
 				tr.appendChild(td);
 				
+				if(movie["delayed"]["true"]==1){
+					tr.id = 'delayed';
+					var delayed_wrap = document.createElement('a');
+					delayed_wrap.href = movie["delayed"]["url"];
+					var delayed = document.createElement('img');
+					delayed.src = './delayed.png';
+					delayed_wrap.appendChild(delayed);
+					tr.querySelector('td#release_date').prepend(delayed_wrap);
+				}
 				tbody.appendChild(tr);
 			});
 			

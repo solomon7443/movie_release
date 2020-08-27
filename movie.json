@@ -14,7 +14,12 @@
 			],
 			"trailer": "https://youtu.be/-01Lmk0RKDI",
 			"cast": [],
-			"poster": "엑스맨-뉴 뮤턴트.jpg"
+			"poster": "엑스맨-뉴 뮤턴트.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "뮬란",
@@ -35,7 +40,12 @@
 				"견자단",
 				"이연결"
 			],
-			"poster": "뮬란.jpg"
+			"poster": "뮬란.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "에놀라 홈즈",
@@ -54,7 +64,12 @@
 				"밀리 바비 브라운",
 				"헨리 카빌"
 			],
-			"poster": "에놀라 홈즈.jpg"
+			"poster": "에놀라 홈즈.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "킹스맨: 퍼스트 에이전트",
@@ -72,7 +87,12 @@
 			"cast": [
 				"해리스 디킨슨"
 			],
-			"poster": "킹스맨-퍼스트 에이전트.jpg"
+			"poster": "킹스맨-퍼스트 에이전트.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "귀멸의 칼날: 무한열차 편",
@@ -88,7 +108,12 @@
 			],
 			"trailer": "https://youtu.be/lZRgPy_iRrY",
 			"cast": [],
-			"poster": "귀멸의 칼날-무한열차 편.jpg"
+			"poster": "귀멸의 칼날-무한열차 편.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "듄",
@@ -106,7 +131,12 @@
 			"cast": [
 				"제이슨 모모아"
 			],
-			"poster": "듄.jpg"
+			"poster": "듄.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "나일강의 죽음",
@@ -126,7 +156,12 @@
 				"캘 가돗",
 				"엠마 맥키"
 			],
-			"poster": "나일강의 죽음.jpg"
+			"poster": "나일강의 죽음.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "원더우먼 1984",
@@ -145,7 +180,12 @@
 				"갤 가돗",
 				"크리스 파인"
 			],
-			"poster": "원더우먼 1984.jpg"
+			"poster": "원더우먼 1984.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "블랙 위도우",
@@ -163,7 +203,12 @@
 			"cast": [
 				"스칼렛 요한슨"
 			],
-			"poster": "블랙 위도우.jpg"
+			"poster": "블랙 위도우.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "소울",
@@ -183,7 +228,12 @@
 			],
 			"trailer": "https://youtu.be/xOsLIiBStEs",
 			"cast": [],
-			"poster": "소울.jpg"
+			"poster": "소울.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "이터널스",
@@ -202,7 +252,12 @@
 				"마동석",
 				"안젤리나 졸리"
 			],
-			"poster": "이터널스.jpg"
+			"poster": "이터널스.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "모비우스",
@@ -224,7 +279,12 @@
 			"cast": [
 				"자레드 레토"
 			],
-			"poster": "모비우스.jpg"
+			"poster": "모비우스.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "더 배트맨",
@@ -244,7 +304,12 @@
 				"폴 다노",
 				"제프리 라이트"
 			],
-			"poster": "더 배트맨.jpg"
+			"poster": "더 배트맨.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "스파이더맨 3",
@@ -262,7 +327,12 @@
 			"cast": [
 				"톰 홀랜드"
 			],
-			"poster": "스파이더맨 3.jpg"
+			"poster": "스파이더맨 3.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "신비한 동물사전3",
@@ -282,7 +352,12 @@
 				"조니 뎁",
 				"주드 로"
 			],
-			"poster": "신비한 동물사전 3.jpg"
+			"poster": "신비한 동물사전 3.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "스나이더의 저스티스 리그",
@@ -298,7 +373,12 @@
 			],
 			"trailer": "https://youtu.be/z6512XKKNkU",
 			"cast": [],
-			"poster": "스나이더의 저스티스 리그.jpg"
+			"poster": "스나이더의 저스티스 리그.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "아바타 2",
@@ -314,7 +394,12 @@
 			],
 			"trailer": "",
 			"cast": [],
-			"poster": "아바타.jpg"
+			"poster": "아바타.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
 		},
 		{
 			"title": "승리호",
@@ -335,7 +420,12 @@
 				"진선규",
 				"유해진"
 			],
-			"poster": "승리호.jpg"
+			"poster": "승리호.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 1,
+				"url": "https://www.hankyung.com/life/article/202008275217v"
+			}
 		}
 	]
 }
