@@ -19,6 +19,9 @@
 			tr:hover {
 				background-color: #f5f5f5;
 			}
+			td.logo, td.director{
+				text-align:right;
+			}
 		</style>
 	</head>
 	<body>
@@ -56,16 +59,17 @@
 				var tr = document.createElement("tr");
 				
 				var td = document.createElement("td");
+				td.id = 'logo';
 				movie["distribution"].forEach(function(distrib){
 					var img = document.createElement("img");
 					img.src = "./logo/"+distrib["logo"];
 					img.title = distrib["company"];
 					td.appendChild(img);
 				});
-				td.style.cssText = "text-align:right"; 
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
+				td.id = 'title';
 				if(movie["trailer"].length > 0){
 					var a = document.createElement("a");
 					a.href = movie["trailer"]
@@ -77,17 +81,18 @@
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
+				td.id = 'release_date';
 				td.innerText = movie["release"];
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
+				td.id = 'director';
 				td.innerText = movie["director"].join(', ')
-				td.style.cssText = "text-align:right"; 
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
+				td.id = 'cast';
 				td.innerText = movie["cast"].join(', ')
-				td.style.cssText = "text-align:right"; 
 				tr.appendChild(td);
 				
 				tbody.appendChild(tr);
