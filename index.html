@@ -22,22 +22,25 @@
 			td#logo, td#director, td#cast{
 				text-align:right;
 			}
+			div.search-table-outter { overflow-x: scroll; }
 		</style>
 	</head>
 	<body>
-		<table class="movie_table">
-			<thead>
-				<tr>
-					<th></th>
-					<th>제목</th>
-					<th>날짜</th>
-					<th>감독</th>
-					<th>주연</th>
-				</tr>
-			</thead>
-			<tbody>
-			</tbody>
-		</table>
+		<div class = "search-table-outter">
+			<table class="movie_table">
+				<thead>
+					<tr>
+						<th></th>
+						<th>제목</th>
+						<th>날짜</th>
+						<th>감독</th>
+						<th>주연</th>
+					</tr>
+				</thead>
+				<tbody>
+				</tbody>
+			</table>
+		</div>
 		<script>
 			function loadFile(filePath) {
 				var result = null;
