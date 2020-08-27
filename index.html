@@ -31,7 +31,7 @@
 			var table = document.querySelector("table.movie_table");
 			var tbody = table.children[1];
 			
-			var Req = loadFile('./movie.txt');
+			var Req = loadFile('./movie.txt'+ '?' + (new Date()).getTime());;
 			Req = Req.split('\n')
 			Req.forEach(function(Pair){
 				var tr = document.createElement("tr");
