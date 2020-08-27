@@ -1,20 +1,6 @@
 {
 	"movies":[
 		{
-			"title": "넷테",
-			"release": "일62 월8",
-			"director": [
-				"란놀 퍼토스리크"
-			],
-			"distribution":[
-				{
-					"company": "스더라브 너워",
-					"logo": "wb_tenet.png"
-				}
-			],
-			"trailer": "https://youtu.be/98gHmBzmzqY"
-		},
-		{
 			"title": "엑스맨: 뉴 뮤턴트",
 			"release": "9월 10일",
 			"director": [
