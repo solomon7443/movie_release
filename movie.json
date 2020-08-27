@@ -1,20 +1,19 @@
 {
-	"movies":[
+	"movies": [
 		{
 			"title": "엑스맨: 뉴 뮤턴트",
 			"release": "9월 10일",
 			"director": [
 				"조쉬 분"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "20세기 폭스",
 					"logo": "20th.png"
 				}
 			],
 			"trailer": "https://youtu.be/-01Lmk0RKDI",
-			"cast": [
-			]
+			"cast": []
 		},
 		{
 			"title": "뮬란",
@@ -23,7 +22,7 @@
 				"토니 밴크로프트",
 				"배리 쿡"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "월트 디즈니",
 					"logo": "dn.jpg"
@@ -42,7 +41,7 @@
 			"director": [
 				"해리 브래드비어"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "넷플릭스",
 					"logo": "nf.jpg"
@@ -55,21 +54,36 @@
 			]
 		},
 		{
+			"title": "킹스맨: 퍼스트 에이전트",
+			"release": "9월",
+			"director": [
+				"매튜 본"
+			],
+			"distribution": [
+				{
+					"company": "월트 디즈니",
+					"logo": "dn.jpg"
+				}
+			],
+			"trailer": "https://youtu.be/Wn7hhseWbmU",
+			"cast": [
+				"해리스 디킨슨"
+			]
+		},
+		{
 			"title": "귀멸의 칼날: 무한열차 편",
 			"release": "10월 16일",
 			"director": [
 				"소토자키 하루오"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "도호",
 					"logo": "dh.png"
 				}
 			],
 			"trailer": "https://youtu.be/lZRgPy_iRrY",
-			"cast": [
-				
-			]
+			"cast": []
 		},
 		{
 			"title": "듄",
@@ -77,7 +91,7 @@
 			"director": [
 				"드니 빌뇌브"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "워너 브라더스",
 					"logo": "wb.png"
@@ -94,7 +108,7 @@
 			"director": [
 				"케네스 브래너"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "20세기 폭스",
 					"logo": "20th.png"
@@ -113,7 +127,7 @@
 			"director": [
 				"패티 젠킨스"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "워너 브라더스",
 					"logo": "wb.png"
@@ -131,7 +145,7 @@
 			"director": [
 				"케이트 쇼틀랜드"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "마블 픽쳐스",
 					"logo": "mb.png"
@@ -148,7 +162,7 @@
 			"director": [
 				"피트 닥터"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "픽사",
 					"logo": "px.png"
@@ -159,9 +173,7 @@
 				}
 			],
 			"trailer": "https://youtu.be/xOsLIiBStEs",
-			"cast": [
-				
-			]
+			"cast": []
 		},
 		{
 			"title": "이터널스",
@@ -169,7 +181,7 @@
 			"director": [
 				"클로이 자오"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "워너 브라더스",
 					"logo": "mb.png"
@@ -178,7 +190,7 @@
 			"trailer": "",
 			"cast": [
 				"마동석",
-				"안젤리나 졸리"				
+				"안젤리나 졸리"
 			]
 		},
 		{
@@ -187,7 +199,7 @@
 			"director": [
 				"다니엘 에스피노사"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "소니 픽쳐스",
 					"logo": "sp.png"
@@ -208,7 +220,7 @@
 			"director": [
 				"맷 리브스"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "워너 브라더스",
 					"logo": "wb.png"
@@ -227,7 +239,7 @@
 			"director": [
 				"존 왓츠"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "마블 픽처스",
 					"logo": "mb.png"
@@ -244,7 +256,7 @@
 			"director": [
 				"데이비드 예이츠"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "워너 브라더스",
 					"logo": "wb.png"
@@ -263,16 +275,14 @@
 			"director": [
 				"잭 스나이더"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "HBO max",
 					"logo": "hm.png"
 				}
 			],
 			"trailer": "https://youtu.be/z6512XKKNkU",
-			"cast": [
-				
-			]
+			"cast": []
 		},
 		{
 			"title": "아바타 2",
@@ -280,16 +290,14 @@
 			"director": [
 				"제임스 카메론"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "20세기 폭스",
 					"logo": "20th.png"
 				}
 			],
 			"trailer": "",
-			"cast": [
-				
-			]
+			"cast": []
 		},
 		{
 			"title": "승리호",
@@ -297,7 +305,7 @@
 			"director": [
 				"조성희"
 			],
-			"distribution":[
+			"distribution": [
 				{
 					"company": "(주)메리크리스마스",
 					"logo": "mc.png"
@@ -312,5 +320,4 @@
 			]
 		}
 	]
-}			
-				
+}
