@@ -116,6 +116,10 @@
 				
 				if(movie["new"]==1){
 					tr.id = 'new';
+					var new_ = document.createElement('img');
+					new_.src = './new.png';
+					new_.title = '새로운 영화';
+					tr.querySelector('td#release_date').prepend(new_);
 				}
 				if(movie["delayed"]["true"]==1){
 					tr.id = 'delayed';
