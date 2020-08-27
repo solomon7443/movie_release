@@ -43,7 +43,7 @@
 			var table = document.querySelector("table.movie_table");
 			var tbody = table.children[1];
 			
-			var Req = loadFile('./movie.json'+ '?' + (new Date()).getTime());;
+			var Res = loadFile('./movie.json'+ '?' + (new Date()).getTime());;
 			Res = JSON.parse(Res);
 			Res["movies"].forEach(function(movie){
 				var tr = document.createElement("tr");
