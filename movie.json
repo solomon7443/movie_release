@@ -123,6 +123,10 @@
 				{
 					"company": "픽사",
 					"logo": "px.png"
+				},
+				{
+					"company": "월트디즈니",
+					"logo": "dn.jpg"
 				}
 			],
 			"trailer": "https://youtu.be/xOsLIiBStEs"
@@ -227,7 +231,7 @@
 		},
 		{
 			"title": "승리호",
-			"release": "",
+			"release": "무기한 연기",
 			"director": [
 				"조성희"
 			],
