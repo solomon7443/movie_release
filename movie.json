@@ -65,7 +65,7 @@
 				"헨리 카빌"
 			],
 			"poster": "에놀라 홈즈.jpg",
-			"new": 0,
+			"new": 1,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -305,7 +305,7 @@
 				"제프리 라이트"
 			],
 			"poster": "더 배트맨.jpg",
-			"new": 0,
+			"new": 1,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -374,7 +374,7 @@
 			"trailer": "https://youtu.be/z6512XKKNkU",
 			"cast": [],
 			"poster": "스나이더의 저스티스 리그.jpg",
-			"new": 0,
+			"new": 1,
 			"delayed": {
 				"true": 0,
 				"url": ""

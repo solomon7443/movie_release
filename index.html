@@ -123,6 +123,7 @@
 					delayed_wrap.href = movie["delayed"]["url"];
 					var delayed = document.createElement('img');
 					delayed.src = './delayed.png';
+					delayed.title = '연기됨';
 					delayed_wrap.appendChild(delayed);
 					tr.querySelector('td#release_date').prepend(delayed_wrap);
 				}
