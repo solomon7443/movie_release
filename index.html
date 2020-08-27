@@ -40,13 +40,16 @@
 				
 				var td = document.createElement("td");
 				var img = document.createElement("img");
-				img.src = "./"+sets[0];
+				img.src = "./logo/"+sets[0];
 				td.appendChild(img);
 				td.style.cssText = "text-align:right"; 
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
-				td.innerText = sets[1];
+				var a = document.createElement("a");
+				a.href = sets[4]
+				a.innerText = sets[1];
+				td.appendChild(a);
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
@@ -55,6 +58,7 @@
 				
 				var td = document.createElement("td");
 				td.innerText = sets[3];
+				td.style.cssText = "text-align:right"; 
 				tr.appendChild(td);
 				
 				tbody.appendChild(tr);
