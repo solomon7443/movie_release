@@ -6,7 +6,7 @@
 		<style>
 			a:link, a:visited {
 				color: black;
-				text-decoration: none;
+				text-decoration: underline;
 				cursor: pointer;
 			}
 
@@ -59,10 +59,14 @@
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
-				var a = document.createElement("a");
-				a.href = movie["trailer"]
-				a.innerText = movie["title"];
-				td.appendChild(a);
+				if(movie["trailer"].length > 0){
+					var a = document.createElement("a");
+					a.href = movie["trailer"]
+					a.innerText = movie["title"];
+					td.appendChild(a);
+				}else{
+					td.innerText = movie["title"];
+				}
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
