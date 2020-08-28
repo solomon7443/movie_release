@@ -35,6 +35,9 @@
 			tr#delayed{
 				background-color: #ff6b66;
 			}
+			td#score{
+				background-color: white;
+			}
 			div.caption{
 				color: #bbbbbb;
 			}
@@ -151,10 +154,12 @@
 						tomato.src = './tomato/fresh.png';
 					}
 					tomato.style.height = '24px';
+					tomato.style.float = 'left';
 					td.append(tomato);
 					
 					var score_int = document.createElement('div');
 					score_int.innerText = score_tomato + '%';
+					score_int.style.float = 'left';
 					td.append(score_int);
 				}
 				tr.appendChild(td);
