@@ -22,6 +22,29 @@
 			}
 		},
 		{
+			"title": "악마는 사라지지 않는다",
+			"release": "9월 16일",
+			"director": [
+				"안토니오 캠포스"
+			],
+			"distribution": [
+				{
+					"company": "넷플릭스",
+					"logo": "nf.jpg"
+				}
+			],
+			"trailer": "https://youtu.be/XrchVySpc8s",
+			"cast": [
+				"톰 홀랜드"
+			],
+			"poster": "악마는 사라지지 않는다.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			}
+		},
+		{
 			"title": "뮬란",
 			"release": "9월 17일",
 			"director": [
