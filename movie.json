@@ -19,7 +19,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 20
+			]
 		},
 		{
 			"title": "악마는 사라지지 않는다",
@@ -42,7 +45,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "뮬란",
@@ -68,7 +74,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "에놀라 홈즈",
@@ -92,7 +101,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "킹스맨: 퍼스트 에이전트",
@@ -115,7 +127,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "귀멸의 칼날: 무한열차 편",
@@ -136,7 +151,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "듄",
@@ -159,7 +177,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "나일강의 죽음",
@@ -184,7 +205,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "원더우먼 1984",
@@ -208,7 +232,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "블랙 위도우",
@@ -231,7 +258,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "소울",
@@ -256,7 +286,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "이터널스",
@@ -280,7 +313,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "모비우스",
@@ -307,7 +343,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "더 배트맨",
@@ -332,7 +371,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "스파이더맨 3",
@@ -355,7 +397,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "신비한 동물사전3",
@@ -380,7 +425,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "스나이더의 저스티스 리그",
@@ -401,7 +449,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "아바타 2",
@@ -422,7 +473,10 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		},
 		{
 			"title": "승리호",
@@ -448,7 +502,10 @@
 			"delayed": {
 				"true": 1,
 				"url": "https://www.hankyung.com/life/article/202008275217v"
-			}
+			},
+			"score": [
+				"tomato": 0
+			]
 		}
 	]
 }

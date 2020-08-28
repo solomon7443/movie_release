@@ -50,6 +50,7 @@
 						<th>개봉일</th>
 						<th>감독</th>
 						<th>주연</th>
+						<th></th>
 					</tr>
 				</thead>
 				<tbody>
@@ -138,6 +139,26 @@
 					delayed_wrap.appendChild(delayed);
 					tr.querySelector('td#release_date').prepend(delayed_wrap);
 				}
+				
+				var td = document.createElement("td");
+				td.id = 'store';
+				var score_tomato = movie["score"]["tomato"];
+				if(score_tomato>0){
+					var tomato = document.createElement('img');
+					if(score_tomato<60){
+						tomato.src = './tomato/rotten.png';
+					}else{
+						tomato.src = './tomato/fresh.png';
+					}
+					tomato.style.height = '24px';
+					td.append(tomato);
+					
+					var score_int = document.createElement('div');
+					score_int.innerText = score_tomato + '%';
+					td.append(score_int);
+				}
+				tr.appendChild(td);
+				
 				tbody.appendChild(tr);
 			});
 			
