@@ -149,8 +149,8 @@
 					body.appendChild(poster);
 				});
 				element.addEventListener('mousemove',function(event){
-					var mousex = event.clientX + 24 + 'px';
-					var mousey = event.clientY + 16 + 'px';
+					var mousex = event.pageX + 24 + 'px';
+					var mousey = event.pageY + 16 + 'px';
 					var poster = document.querySelector("img#poster");
 					poster.style.top = mousey;
 					poster.style.left = mousex;
