@@ -21,7 +21,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 20
+				"tomato": {
+					"score": 32,
+					"url": "https://www.rottentomatoes.com/m/the_new_mutants"
+				}
 			}
 		},
 		{

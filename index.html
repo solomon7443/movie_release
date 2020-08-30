@@ -145,8 +145,10 @@
 				
 				var td = document.createElement("td");
 				td.id = 'score';
-				var score_tomato = movie["score"]["tomato"];
+				var score_tomato = movie["score"]["tomato"]["score"];
 				if(score_tomato>0){
+					var tomato_wrap = document.createElement('a');
+					tomato_wrap.href = movie["score"]["tomato"]["url"];
 					var tomato = document.createElement('img');
 					if(score_tomato<60){
 						tomato.src = './tomato/rotten.png';
@@ -155,7 +157,10 @@
 					}
 					tomato.style.height = '24px';
 					tomato.style.float = 'left';
-					td.append(tomato);
+					
+					tomato_wrap.append(tomato);
+					tomato_wrap.style.float = 'left';
+					td.append(tomato_wrap);
 					
 					var score_int = document.createElement('div');
 					score_int.innerText = score_tomato + '%';
