@@ -4,6 +4,9 @@
 		<meta charset="utf-8">
 		<title>영화 개봉 일정</title>
 		<style>
+			table.movie_table, footer.caption{
+				margin:0px auto;
+			}
 			a:link, a:visited {
 				color: black;
 				text-decoration: underline;
@@ -60,10 +63,10 @@
 				</tbody>
 			</table>
 		</div>
-		<div class = "caption">
-		최근 업데이트: 2020년 8월 30일 9:00 PM<br>
-		문의: https://github.com/tark1998/movie_release/issues
-		</div>
+		<footer class = "caption">
+			<p>최근 업데이트: 2020년 8월 30일 9:00 PM</p><br>
+			<p>문의: https://github.com/tark1998/movie_release/issues</p>
+		</footer>
 		<script>
 			function loadFile(filePath) {
 				var result = null;
