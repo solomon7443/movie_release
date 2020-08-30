@@ -10,6 +10,10 @@
 				{
 					"company": "20세기 폭스",
 					"logo": "20th.png"
+				},
+				{
+					"company": "월트 디즈니",
+					"logo": "dn.jpg"
 				}
 			],
 			"trailer": "https://youtu.be/-01Lmk0RKDI",
@@ -50,7 +54,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -79,7 +86,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -106,7 +116,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -132,7 +145,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -156,7 +172,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -182,7 +201,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -210,7 +232,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -237,7 +262,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -263,7 +291,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -291,7 +322,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -318,7 +352,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -348,7 +385,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -376,7 +416,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -402,7 +445,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -430,7 +476,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -454,7 +503,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -478,7 +530,10 @@
 				"url": ""
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		},
 		{
@@ -507,7 +562,10 @@
 				"url": "https://www.hankyung.com/life/article/202008275217v"
 			},
 			"score": {
-				"tomato": 0
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
 			}
 		}
 	]
