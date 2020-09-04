@@ -393,7 +393,7 @@
 		},
 		{
 			"title": "더 배트맨",
-			"release": "2021년 10월 1일",
+			"release": "2021년 10월 1일(촬영 연기)",
 			"director": [
 				"맷 리브스"
 			],
@@ -412,8 +412,8 @@
 			"poster": "더 배트맨.jpg",
 			"new": 1,
 			"delayed": {
-				"true": 0,
-				"url": ""
+				"true": 1,
+				"url": "https://www.yna.co.kr/view/AKR20200904014800075"
 			},
 			"score": {
 				"tomato": {
