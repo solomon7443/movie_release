@@ -1,37 +1,6 @@
 {
 	"movies": [
 		{
-			"title": "엑스맨: 뉴 뮤턴트",
-			"release": "9월 10일",
-			"director": [
-				"조쉬 분"
-			],
-			"distribution": [
-				{
-					"company": "20세기 폭스",
-					"logo": "20th.png"
-				},
-				{
-					"company": "월트 디즈니",
-					"logo": "dn.jpg"
-				}
-			],
-			"trailer": "https://youtu.be/-01Lmk0RKDI",
-			"cast": [],
-			"poster": "엑스맨-뉴 뮤턴트.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 32,
-					"url": "https://www.rottentomatoes.com/m/the_new_mutants"
-				}
-			}
-		},
-		{
 			"title": "악마는 사라지지 않는다",
 			"release": "9월 16일",
 			"director": [
