@@ -208,36 +208,6 @@
 			}
 		},
 		{
-			"title": "원더우먼 1984",
-			"release": "10월",
-			"director": [
-				"패티 젠킨스"
-			],
-			"distribution": [
-				{
-					"company": "워너 브라더스",
-					"logo": "wb.png"
-				}
-			],
-			"trailer": "https://youtu.be/2xIGFoD1f6s",
-			"cast": [
-				"갤 가돗",
-				"크리스 파인"
-			],
-			"poster": "원더우먼 1984.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
 			"title": "블랙 위도우",
 			"release": "10월",
 			"director": [
@@ -289,6 +259,36 @@
 			"delayed": {
 				"true": 0,
 				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "원더우먼 1984",
+			"release": "12월 25일",
+			"director": [
+				"패티 젠킨스"
+			],
+			"distribution": [
+				{
+					"company": "워너 브라더스",
+					"logo": "wb.png"
+				}
+			],
+			"trailer": "https://youtu.be/2xIGFoD1f6s",
+			"cast": [
+				"갤 가돗",
+				"크리스 파인"
+			],
+			"poster": "원더우먼 1984.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 1,
+				"url": "https://variety.com/2020/film/news/wonder-woman-1984-delayed-christmas-1234766774/"
 			},
 			"score": {
 				"tomato": {
