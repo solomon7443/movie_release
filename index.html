@@ -126,97 +126,7 @@
 					document.querySelector("body > div > div > div").append(' ');
 				}
 				else{
-					var tr = document.createElement("tr");
-					
-					var td = document.createElement("td");
-					td.id = 'logo';
-					movie["distribution"].forEach(function(distrib){
-						var img = document.createElement("img");
-						img.src = "./logo/"+distrib["logo"];
-						img.title = distrib["company"];
-						td.appendChild(img);
-					});
-					tr.appendChild(td);
-					
-					var td = document.createElement("td");
-					td.id = 'title';
-					if(movie["trailer"].length > 0){
-						var a = document.createElement("a");
-						a.href = movie["trailer"]
-						a.innerText = movie["title"];
-						td.appendChild(a);
-					}else{
-						var div = document.createElement("div");
-						div.innerText = movie["title"];
-						td.appendChild(div);
-					}
-					AddPoster(td,movie["poster"]);
-					tr.appendChild(td);
-					
-					var td = document.createElement("td");
-					td.id = 'release_date';
-					if(movie["release"] == 0){
-						td.innerText = '미정';
-					}
-					else{
-						td.innerText = convert_int_to_date(movie["release"]);
-					}
-					tr.appendChild(td);
-					
-					var td = document.createElement("td");
-					td.id = 'director';
-					td.innerText = movie["director"].join(', ')
-					tr.appendChild(td);
-					
-					var td = document.createElement("td");
-					td.id = 'cast';
-					td.innerText = movie["cast"].join(', ')
-					tr.appendChild(td);
-					
-					if(movie["new"]==1){
-						tr.id = 'new';
-						var new_ = document.createElement('img');
-						new_.src = './new.png';
-						new_.title = '새로운 영화';
-						tr.querySelector('td#release_date').prepend(new_);
-					}
-					if(movie["delayed"]["true"]==1){
-						tr.id = 'delayed';
-						var delayed_wrap = document.createElement('a');
-						delayed_wrap.href = movie["delayed"]["url"];
-						var delayed = document.createElement('img');
-						delayed.src = './delayed.png';
-						delayed.title = '연기됨';
-						delayed_wrap.appendChild(delayed);
-						tr.querySelector('td#release_date').prepend(delayed_wrap);
-					}
-					
-					var td = document.createElement("td");
-					td.id = 'score';
-					var score_tomato = movie["score"]["tomato"]["score"];
-					if(score_tomato>0){
-						var tomato_wrap = document.createElement('a');
-						tomato_wrap.href = movie["score"]["tomato"]["url"];
-						var tomato = document.createElement('img');
-						if(score_tomato<60){
-							tomato.src = './tomato/rotten.png';
-						}else{
-							tomato.src = './tomato/fresh.png';
-						}
-						tomato.style.height = '24px';
-						tomato.style.float = 'left';
-						
-						tomato_wrap.append(tomato);
-						tomato_wrap.style.float = 'left';
-						td.append(tomato_wrap);
-						
-						var score_int = document.createElement('div');
-						score_int.innerText = score_tomato + '%';
-						score_int.style.float = 'left';
-						td.append(score_int);
-					}
-					tr.appendChild(td);
-					tbody.appendChild(tr);
+					add_to_tbody(tbody,movie);
 				}
 			});
 			
@@ -238,6 +148,114 @@
 					var poster = document.querySelector("img#poster");
 					poster.parentNode.removeChild(poster);
 				});
+			}
+			
+			function add_to_tbody(tbody_,movie_){
+				var tr = document.createElement("tr");
+					
+				var td = document.createElement("td");
+				td.id = 'logo';
+				movie_["distribution"].forEach(function(distrib){
+					var img = document.createElement("img");
+					img.src = "./logo/"+distrib["logo"];
+					img.title = distrib["company"];
+					td.appendChild(img);
+				});
+				tr.appendChild(td);
+				
+				var td = document.createElement("td");
+				td.id = 'title';
+				if(movie_["trailer"].length > 0){
+					var a = document.createElement("a");
+					a.href = movie_["trailer"]
+					a.innerText = movie_["title"];
+					td.appendChild(a);
+				}else{
+					var div = document.createElement("div");
+					div.innerText = movie_["title"];
+					td.appendChild(div);
+				}
+				AddPoster(td,movie_["poster"]);
+				tr.appendChild(td);
+				
+				var td = document.createElement("td");
+				td.id = 'release_date';
+				if(movie_["release"] == 0){
+					td.innerText = '미정';
+				}
+				else{
+					td.innerText = convert_int_to_date(movie_["release"]);
+				}
+				td.class = movie_["release"];
+				tr.appendChild(td);
+				
+				var td = document.createElement("td");
+				td.id = 'director';
+				td.innerText = movie_["director"].join(', ')
+				tr.appendChild(td);
+				
+				var td = document.createElement("td");
+				td.id = 'cast';
+				td.innerText = movie_["cast"].join(', ')
+				tr.appendChild(td);
+				
+				if(movie_["new"]==1){
+					tr.id = 'new';
+					var new_ = document.createElement('img');
+					new_.src = './new.png';
+					new_.title = '새로운 영화';
+					tr.querySelector('td#release_date').prepend(new_);
+				}
+				if(movie_["delayed"]["true"]==1){
+					tr.id = 'delayed';
+					var delayed_wrap = document.createElement('a');
+					delayed_wrap.href = movie_["delayed"]["url"];
+					var delayed = document.createElement('img');
+					delayed.src = './delayed.png';
+					delayed.title = '연기됨';
+					delayed_wrap.appendChild(delayed);
+					tr.querySelector('td#release_date').prepend(delayed_wrap);
+				}
+				
+				var td = document.createElement("td");
+				td.id = 'score';
+				var score_tomato = movie_["score"]["tomato"]["score"];
+				if(score_tomato>0){
+					var tomato_wrap = document.createElement('a');
+					tomato_wrap.href = movie_["score"]["tomato"]["url"];
+					var tomato = document.createElement('img');
+					if(score_tomato<60){
+						tomato.src = './tomato/rotten.png';
+					}else{
+						tomato.src = './tomato/fresh.png';
+					}
+					tomato.style.height = '24px';
+					tomato.style.float = 'left';
+					
+					tomato_wrap.append(tomato);
+					tomato_wrap.style.float = 'left';
+					td.append(tomato_wrap);
+					
+					var score_int = document.createElement('div');
+					score_int.innerText = score_tomato + '%';
+					score_int.style.float = 'left';
+					td.append(score_int);
+				}
+				tr.appendChild(td);
+				if(tbody_.childElementCount == 0){
+					tbody_.appendChild(tr);
+				}else{
+					if(movie_["release"]<parseInt(tbody_.children[0].children[2].className))
+						tbody_.prepend(tr);
+					for(var j = 0; j<tbody_.childElementCount-1 ; j++){
+						if(movie_["release"]<=parseInt(tbody_.children[j].children[2].className)&&movie_["release"]>parseInt(tbody_.children[j+1].children[2].className)){
+							tbody_.children[j].insertAdjacentElement('afterend', tr);
+						}
+					}
+					if(movie_["release"]<parseInt(tbody_.children[j].children[2].className)){
+						tbody_.append(tr);
+					}
+				}
 			}
 		</script>
 	</body>
