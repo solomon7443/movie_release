@@ -89,15 +89,15 @@
 					return n.slice(2,4)+'월 '+n.slice(4,6)+'일';
 				}
 				else{
-					return '20'+n.slice(0,2)+'년 '+n.slice(2,4)+'월 '+n.slice(4,6)+'일';
+					return '20'+n.slice(0,2)+'년 '+(n.slice(2,4))*1+'월 '+(n.slice(4,6))*1+'일';
 				}
 			}
 			
 		
 			let today = new Date();   
 			let year = today.getFullYear(); // 년도
-			let month = today.getMonth() + 1;  // 월
-			let date = today.getDate();  // 날짜
+			let month = String(today.getMonth()+1).padStart(2, '0');  // 월
+			let date = String(today.getDate()).padStart(2, '0');  // 날짜
 			var today_int = ((year-2000)+''+month+''+date)*1;
 						
 			function loadFile(filePath) {

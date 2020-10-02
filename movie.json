@@ -620,10 +620,10 @@
 			}
 		},
 		{
-			"title": "낙원의 밤",
+			"title": "미나리",
 			"release": 0,
 			"director": [
-				"미나리"
+				"정이삭"
 			],
 			"distribution": [
 				{
@@ -633,7 +633,9 @@
 			],
 			"trailer": "https://youtu.be/KQ0gFidlro8",
 			"cast": [
-				"차승원"
+				"스티븐 연",
+				"한예리",
+				"조여정"
 			],
 			"poster": "미나리.jpg",
 			"new": 1,
