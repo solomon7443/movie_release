@@ -98,7 +98,7 @@
 			let year = today.getFullYear(); // 년도
 			let month = today.getMonth() + 1;  // 월
 			let date = today.getDate();  // 날짜
-			var today_int = (year.slice(2)+''+month+''+date)*1;
+			var today_int = ((year-2000)+''+month+''+date)*1;
 						
 			function loadFile(filePath) {
 				var result = null;
