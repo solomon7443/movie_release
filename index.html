@@ -248,11 +248,11 @@
 					if(movie_["release"]<parseInt(tbody_.children[0].children[2].className))
 						tbody_.prepend(tr);
 					for(var j = 0; j<tbody_.childElementCount-1 ; j++){
-						if(movie_["release"]<=parseInt(tbody_.children[j].children[2].className)&&movie_["release"]>parseInt(tbody_.children[j+1].children[2].className)){
+						if(movie_["release"]>=parseInt(tbody_.children[j].children[2].className)&&movie_["release"]<parseInt(tbody_.children[j+1].children[2].className)){
 							tbody_.children[j].insertAdjacentElement('afterend', tr);
 						}
 					}
-					if(movie_["release"]<parseInt(tbody_.children[j].children[2].className)){
+					if(movie_["release"]>parseInt(tbody_.children[j].children[2].className)){
 						tbody_.append(tr);
 					}
 				}
