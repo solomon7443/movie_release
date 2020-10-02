@@ -89,7 +89,7 @@
 					return n.slice(2,4)+'월 '+n.slice(4,6)+'일';
 				}
 				else{
-					return '20'+n.slice(0,2)+'년 '+(n.slice(2,4))*1+'월 '+(n.slice(4,6))*1+'일';
+					return '20'+parseInt(n.slice(0,2))+'년 '+parseInt(n.slice(2,4))+'월 '+parseInt(n.slice(4,6))+'일';
 				}
 			}
 			
@@ -117,12 +117,13 @@
 			
 			var Res = loadFile('./movie.json'+ '?' + (new Date()).getTime());;
 			Res = JSON.parse(Res);
-			document.querySelector("body > footer > div").innerHTML = '최근 업데이트: '+convert_int_to_date(Res["update"])+"<br>문의: https://github.com/tark1998/movie_release/issues";
+			document.querySelector("body > footer > div").innerHTML = '최근 업데이트: 2020년 '+convert_int_to_date(Res["update"])+"<br>문의: https://github.com/tark1998/movie_release/issues";
 			Res["movies"].forEach(function(movie){
-				if(0<movie["release"] && movie["release"]<today_int){
+				if(0<movie["release"] && movie["release"]<today_int-1){
 					var img = document.createElement("img");
 					img.src = './poster/'+movie["poster"];
 					document.querySelector("body > div > div > div").appendChild(img);
+					document.querySelector("body > div > div > div").append('<br>');
 				}
 				else{
 					var tr = document.createElement("tr");
