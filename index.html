@@ -85,7 +85,12 @@
 		<script>
 			function convert_int_to_date(n){
 				n = n+'';
-				return '20'+n.slice(0,2)+'년 '+n.slice(2,4)+'월 '+n.slice(4,6)+'일';
+				if((n.slice(0,2))*1==20){
+					return n.slice(2,4)+'월 '+n.slice(4,6)+'일';
+				}
+				else{
+					return '20'+n.slice(0,2)+'년 '+n.slice(2,4)+'월 '+n.slice(4,6)+'일';
+				}
 			}
 			
 		
