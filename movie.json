@@ -601,7 +601,12 @@
 			"director": [
 				"박훈정"
 			],
-			"distribution": [],
+			"distribution": [
+				{
+					"company": "㈜넥스트엔터테인먼트월드",
+					"logo": "next.jpg"
+				}
+			],
 			"trailer": "https://youtu.be/O3SxH_rspik",
 			"cast": [
 				"차승원"
