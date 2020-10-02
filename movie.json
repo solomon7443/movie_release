@@ -565,7 +565,7 @@
 		},
 		{
 			"title": "승리호",
-			"release": 0,
+			"release": 999999,
 			"director": [
 				"조성희"
 			],
@@ -597,7 +597,7 @@
 		},
 		{
 			"title": "낙원의 밤",
-			"release": 0,
+			"release": 999999,
 			"director": [
 				"박훈정"
 			],
@@ -621,7 +621,7 @@
 		},
 		{
 			"title": "미나리",
-			"release": 0,
+			"release": 999999,
 			"director": [
 				"정이삭"
 			],
