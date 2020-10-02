@@ -186,7 +186,7 @@
 				else{
 					td.innerText = convert_int_to_date(movie_["release"]);
 				}
-				td.class = movie_["release"];
+				td.class = String(movie_["release"]);
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
