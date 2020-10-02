@@ -119,7 +119,7 @@
 			Res = JSON.parse(Res);
 			document.querySelector("body > footer > div").innerHTML = '최근 업데이트: '+convert_int_to_date(Res["update"])+"<br>문의: https://github.com/tark1998/movie_release/issues";
 			Res["movies"].forEach(function(movie){
-				if(0<movie["release"]<today_int){
+				if(0<movie["release"] && movie["release"]<today_int){
 					var img = document.createElement("img");
 					img.src = './poster/'+movie["poster"];
 					document.querySelector("body > div > div > div").appendChild(img);
