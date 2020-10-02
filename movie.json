@@ -1,8 +1,66 @@
 {
 	"movies": [
 		{
+			"title": "테넷",
+			"release": 200826,
+			"director": [
+				"안토니오 캠포스"
+			],
+			"distribution": [
+				{
+					"company": "넷플릭스",
+					"logo": "nf.jpg"
+				}
+			],
+			"trailer": "https://youtu.be/XrchVySpc8s",
+			"cast": [
+				"톰 홀랜드"
+			],
+			"poster": "테넷.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "엑스맨: 뉴 뮤턴트",
+			"release": 200910,
+			"director": [
+				"안토니오 캠포스"
+			],
+			"distribution": [
+				{
+					"company": "넷플릭스",
+					"logo": "nf.jpg"
+				}
+			],
+			"trailer": "https://youtu.be/XrchVySpc8s",
+			"cast": [
+				"톰 홀랜드"
+			],
+			"poster": "엑스맨-뉴 뮤턴트.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
 			"title": "악마는 사라지지 않는다",
-			"release": "9월 16일",
+			"release": 200916,
 			"director": [
 				"안토니오 캠포스"
 			],
@@ -31,7 +89,7 @@
 		},
 		{
 			"title": "뮬란",
-			"release": "9월 17일",
+			"release": 200917,
 			"director": [
 				"토니 밴크로프트",
 				"배리 쿡"
@@ -63,7 +121,7 @@
 		},
 		{
 			"title": "에놀라 홈즈",
-			"release": "9월 23일",
+			"release": 200923,
 			"director": [
 				"해리 브래드비어"
 			],
@@ -92,37 +150,8 @@
 			}
 		},
 		{
-			"title": "킹스맨: 퍼스트 에이전트",
-			"release": "9월",
-			"director": [
-				"매튜 본"
-			],
-			"distribution": [
-				{
-					"company": "월트 디즈니",
-					"logo": "dn.jpg"
-				}
-			],
-			"trailer": "https://youtu.be/Wn7hhseWbmU",
-			"cast": [
-				"해리스 디킨슨"
-			],
-			"poster": "킹스맨-퍼스트 에이전트.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
 			"title": "귀멸의 칼날: 무한열차 편",
-			"release": "10월 16일",
+			"release": 201016,
 			"director": [
 				"소토자키 하루오"
 			],
@@ -149,7 +178,7 @@
 		},
 		{
 			"title": "듄",
-			"release": "12월 18일",
+			"release": 201218,
 			"director": [
 				"드니 빌뇌브"
 			],
@@ -178,7 +207,7 @@
 		},
 		{
 			"title": "나일강의 죽음",
-			"release": "10월 23일",
+			"release": 201218,
 			"director": [
 				"케네스 브래너"
 			],
@@ -209,7 +238,7 @@
 		},
 		{
 			"title": "블랙 위도우",
-			"release": "10월",
+			"release": 210507,
 			"director": [
 				"케이트 쇼틀랜드"
 			],
@@ -226,8 +255,8 @@
 			"poster": "블랙 위도우.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 0,
-				"url": ""
+				"true": 1,
+				"url": "https://www.chosun.com/entertainments/entertain_photo/2020/09/24/F5BASFSD62C7RS7VCSEE46FN3A/"
 			},
 			"score": {
 				"tomato": {
@@ -238,7 +267,7 @@
 		},
 		{
 			"title": "소울",
-			"release": "11월 20일",
+			"release": 201120,
 			"director": [
 				"피트 닥터"
 			],
@@ -269,7 +298,7 @@
 		},
 		{
 			"title": "원더우먼 1984",
-			"release": "12월 25일",
+			"release": 201225,
 			"director": [
 				"패티 젠킨스"
 			],
@@ -298,8 +327,37 @@
 			}
 		},
 		{
+			"title": "킹스맨: 퍼스트 에이전트",
+			"release": 210212,
+			"director": [
+				"매튜 본"
+			],
+			"distribution": [
+				{
+					"company": "월트 디즈니",
+					"logo": "dn.jpg"
+				}
+			],
+			"trailer": "https://youtu.be/Wn7hhseWbmU",
+			"cast": [
+				"해리스 디킨슨"
+			],
+			"poster": "킹스맨-퍼스트 에이전트.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
 			"title": "이터널스",
-			"release": "2021년 2월 12일",
+			"release": 211105,
 			"director": [
 				"클로이 자오"
 			],
@@ -329,7 +387,7 @@
 		},
 		{
 			"title": "모비우스",
-			"release": "2021년 3월",
+			"release": 210319,
 			"director": [
 				"다니엘 에스피노사"
 			],
@@ -362,7 +420,7 @@
 		},
 		{
 			"title": "더 배트맨",
-			"release": "2021년 10월 1일",
+			"release": 211001,
 			"director": [
 				"맷 리브스"
 			],
@@ -393,7 +451,7 @@
 		},
 		{
 			"title": "스파이더맨 3",
-			"release": "2021년 11월 5일",
+			"release": 211217,
 			"director": [
 				"존 왓츠"
 			],
@@ -422,7 +480,7 @@
 		},
 		{
 			"title": "신비한 동물사전3",
-			"release": "2021년 11월 12일",
+			"release": 211112,
 			"director": [
 				"데이비드 예이츠"
 			],
@@ -453,7 +511,7 @@
 		},
 		{
 			"title": "스나이더의 저스티스 리그",
-			"release": "2021년",
+			"release": 210000,
 			"director": [
 				"잭 스나이더"
 			],
@@ -480,7 +538,7 @@
 		},
 		{
 			"title": "아바타 2",
-			"release": "2022년",
+			"release": 221216,
 			"director": [
 				"제임스 카메론"
 			],
@@ -507,7 +565,7 @@
 		},
 		{
 			"title": "승리호",
-			"release": "무기한 연기",
+			"release": 0,
 			"director": [
 				"조성희"
 			],
@@ -539,7 +597,7 @@
 		},
 		{
 			"title": "낙원의 밤",
-			"release": "미정",
+			"release": 0,
 			"director": [
 				"박훈정"
 			],
@@ -560,6 +618,36 @@
 					"url": ""
 				}
 			}
+		},
+		{
+			"title": "낙원의 밤",
+			"release": 0,
+			"director": [
+				"미나리"
+			],
+			"distribution": [
+				{
+					"company":"A24",
+					"logo":"A24.png"
+				}
+			],
+			"trailer": "https://youtu.be/KQ0gFidlro8",
+			"cast": [
+				"차승원"
+			],
+			"poster": "미나리.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
+			}
 		}
-	]
+	],
+	"update":201002
 }
