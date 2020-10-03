@@ -654,7 +654,37 @@
 					"url": ""
 				}
 			}
+		},
+		{
+			"title": "007: 노 타임 투 다이",
+			"release": 210421,
+			"director": [
+				"캐리 후쿠나가"
+			],
+			"distribution": [
+				{
+					"company": "유니버설 픽처스",
+					"logo": "uni.png"
+				}
+			],
+			"trailer": "",
+			"cast": [
+				"다니엘 크레이크",
+				"레아 세두"
+			],
+			"poster": "007-노 타임 투 다이.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 1,
+				"url": "https://www.mk.co.kr/news/world/view/2020/10/1011249/"
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
+			}
 		}
 	],
-	"update":201002
+	"update":201003
 }
