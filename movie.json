@@ -178,7 +178,7 @@
 		},
 		{
 			"title": "듄",
-			"release": 201218,
+			"release": 211001,
 			"director": [
 				"드니 빌뇌브"
 			],
@@ -195,8 +195,8 @@
 			"poster": "듄.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 0,
-				"url": ""
+				"true": 1,
+				"url": "https://variety.com/2020/film/box-office/dune-release-date-delayed-2021-1234767105/"
 			},
 			"score": {
 				"tomato": {
@@ -463,7 +463,8 @@
 			],
 			"trailer": "",
 			"cast": [
-				"톰 홀랜드"
+				"톰 홀랜드",
+				"제이미 폭스"
 			],
 			"poster": "스파이더맨 3.jpg",
 			"new": 0,
