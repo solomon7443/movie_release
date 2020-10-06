@@ -1,4 +1,6 @@
 {
+	
+	"update":201006,
 	"movies": [
 		{
 			"title": "테넷",
@@ -420,7 +422,7 @@
 		},
 		{
 			"title": "더 배트맨",
-			"release": 211001,
+			"release": 220304,
 			"director": [
 				"맷 리브스"
 			],
@@ -440,7 +442,7 @@
 			"new": 0,
 			"delayed": {
 				"true": 1,
-				"url": "https://www.yna.co.kr/view/AKR20200904014800075"
+				"url": "https://www.cnbc.com/2020/10/05/the-batman-pushed-to-2022-as-warner-bros-shuffles-film-lineup.html"
 			},
 			"score": {
 				"tomato": {
@@ -686,6 +688,5 @@
 				}
 			}
 		}
-	],
-	"update":201003
+	]
 }
