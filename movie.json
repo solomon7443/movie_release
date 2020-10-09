@@ -687,6 +687,39 @@
 					"url": ""
 				}
 			}
+		},
+		{
+			"title": "사이버펑크 2077",
+			"release": 201119,
+			"director": [
+				"마르친 이빈스키"
+			],
+			"distribution": [
+				{
+					"company": "CD PROJEKT",
+					"logo": "cd.png"
+				},
+				{
+					"company": "워너 브라더스",
+					"logo": "wb.png"
+				}
+			],
+			"trailer": "https://youtu.be/4gbfQBH35wo",
+			"cast": [
+				"키아누 리브스"
+			],
+			"poster": "사이버펑크 2077.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
+			}
 		}
 	]
 }
