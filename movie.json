@@ -269,7 +269,7 @@
 		},
 		{
 			"title": "소울",
-			"release": 201120,
+			"release": 999999,
 			"director": [
 				"피트 닥터"
 			],
@@ -288,8 +288,8 @@
 			"poster": "소울.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 0,
-				"url": ""
+				"true": 1,
+				"url": "https://www.theverge.com/2020/10/8/21508491/pixar-soul-disney-plus-release-date-christmas-holidays-streaming-theaters"
 			},
 			"score": {
 				"tomato": {
