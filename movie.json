@@ -1,6 +1,6 @@
 {
 	
-	"update":201006,
+	"update":201014,
 	"movies": [
 		{
 			"title": "테넷",
@@ -606,6 +606,10 @@
 			],
 			"distribution": [
 				{
+					"company": "넷플릭스",
+					"logo": "nf.jpg"
+				},
+				{
 					"company": "㈜넥스트엔터테인먼트월드",
 					"logo": "next.png"
 				}
@@ -617,8 +621,8 @@
 			"poster": "낙원의 밤.jpg",
 			"new": 1,
 			"delayed": {
-				"true": 0,
-				"url": ""
+				"true": 1,
+				"url": "https://n.news.naver.com/entertain/article/241/0003059852"
 			},
 			"score": {
 				"tomato": {
