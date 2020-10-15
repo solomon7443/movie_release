@@ -269,11 +269,15 @@
 		},
 		{
 			"title": "소울",
-			"release": 999999,
+			"release": 201225,
 			"director": [
 				"피트 닥터"
 			],
 			"distribution": [
+				{
+					"company": "디즈니 플러스",
+					"logo": "dnp.png"
+				},
 				{
 					"company": "픽사",
 					"logo": "px.png"
@@ -283,7 +287,7 @@
 					"logo": "dn.png"
 				}
 			],
-			"trailer": "https://youtu.be/xOsLIiBStEs",
+			"trailer": "https://youtu.be/Gs--6c7Hn_A",
 			"cast": [],
 			"poster": "소울.jpg",
 			"new": 0,
