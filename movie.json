@@ -1,6 +1,6 @@
 {
 	
-	"update":201014,
+	"update":201015,
 	"movies": [
 		{
 			"title": "테넷",
@@ -293,8 +293,8 @@
 			},
 			"score": {
 				"tomato": {
-					"score": 0,
-					"url": ""
+					"score": 100,
+					"url": "https://www.rottentomatoes.com/m/soul_2020"
 				}
 			}
 		},
