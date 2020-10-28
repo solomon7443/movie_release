@@ -3,6 +3,36 @@
 	"update":201015,
 	"movies": [
 		{
+			"title": "화양연화, 4K 리마스터",
+			"release": 201224,
+			"director": [
+				"왕가위"
+			],
+			"distribution": [
+				{
+					"company": "넷플릭스",
+					"logo": "nf.jpg"
+				}
+			],
+			"trailer": "https://youtu.be/iSEgP38Y36w",
+			"cast": [
+				"양조위",
+				"장만옥"
+			],
+			"poster": "화양연화.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 90,
+					"url": "https://www.rottentomatoes.com/m/in_the_mood_for_love_2001"
+				}
+			}
+		},
+		{
 			"title": "테넷",
 			"release": 200826,
 			"director": [
