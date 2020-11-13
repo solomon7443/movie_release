@@ -222,7 +222,6 @@
 			],
 			"trailer": "https://youtu.be/VXjGcWq6VnM",
 			"cast": [
-				"제이슨 모모아"
 			],
 			"poster": "듄.jpg",
 			"new": 0,
@@ -239,7 +238,7 @@
 		},
 		{
 			"title": "나일강의 죽음",
-			"release": 201218,
+			"release": 210000,
 			"director": [
 				"케네스 브래너"
 			],
@@ -517,7 +516,7 @@
 		},
 		{
 			"title": "신비한 동물사전3",
-			"release": 211112,
+			"release": 220715,
 			"director": [
 				"데이비드 예이츠"
 			],
@@ -536,8 +535,8 @@
 			"poster": "신비한 동물사전 3.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 0,
-				"url": ""
+				"true": 1,
+				"url": "https://www.chosun.com/entertainments/entertain_photo/2020/11/10/UMP73AWYISH4DDOQTCRVC533YA/"
 			},
 			"score": {
 				"tomato": {
@@ -602,7 +601,7 @@
 		},
 		{
 			"title": "승리호",
-			"release": 999999,
+			"release": 201200,
 			"director": [
 				"조성희"
 			],
@@ -620,10 +619,10 @@
 				"유해진"
 			],
 			"poster": "승리호.jpg",
-			"new": 0,
+			"new": 1,
 			"delayed": {
-				"true": 1,
-				"url": "https://www.hankyung.com/life/article/202008275217v"
+				"true": 0,
+				"url": ""
 			},
 			"score": {
 				"tomato": {
@@ -653,7 +652,7 @@
 				"차승원"
 			],
 			"poster": "낙원의 밤.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 1,
 				"url": "https://n.news.naver.com/entertain/article/241/0003059852"
@@ -751,6 +750,36 @@
 			"delayed": {
 				"true": 1,
 				"url": "https://twitter.com/CyberpunkGame/status/1321128432370176002"
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "조제",
+			"release": 201210,
+			"director": [
+				"김종관"
+			],
+			"distribution": [
+				{
+					"company": "워너 브라더스",
+					"logo": "wb.png"
+				}
+			],
+			"trailer": "https://youtu.be/c7YepYEKK0c",
+			"cast": [
+				"한지민",
+				"남주혁"
+			],
+			"poster": "조제.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
 			},
 			"score": {
 				"tomato": {
