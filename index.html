@@ -211,7 +211,7 @@
 					var new_ = document.createElement('img');
 					new_.src = './new.png';
 					new_.title = '새로운 영화';
-					tr.querySelector('td#release_date').prepend(new_);
+					tr.querySelector('td#release_date').append(new_);
 				}
 				if(movie_["delayed"]["true"]==1){
 					tr.id = 'delayed';
@@ -221,7 +221,7 @@
 					delayed.src = './delayed.png';
 					delayed.title = '연기됨';
 					delayed_wrap.appendChild(delayed);
-					tr.querySelector('td#release_date').prepend(delayed_wrap);
+					tr.querySelector('td#release_date').append(delayed_wrap);
 				}
 				
 				var td = document.createElement("td");
