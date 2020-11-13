@@ -86,12 +86,16 @@
 		<script>
 			function convert_int_to_date(n){
 				n = n+'';
-				if((n.slice(0,2))*1==20){
-					return n.slice(2,4)+'월 '+n.slice(4,6)+'일';
+				var date_str = '';
+				
+				if((n.slice(0,2))*1!=20){
+					date_str =+ '20'+parseInt(n.slice(0,2))+'년 ';
 				}
-				else{
-					return '20'+parseInt(n.slice(0,2))+'년 '+parseInt(n.slice(2,4))+'월 '+parseInt(n.slice(4,6))+'일';
+				date_str =+ parseInt(n.slice(2,4))+'월 ';
+				if(parseInt(n.slice(4,6))){
+					date_str =+ parseInt(n.slice(4,6))+'일';
 				}
+				return date_str;
 			}
 			
 		
