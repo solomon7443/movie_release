@@ -54,8 +54,12 @@
 			footer.caption{
 				color: #bbbbbb;
 			}
-			div.now{
+			h2{
 				text-align:center;
+			}
+			.blank_row{
+				height: 10px !important;
+				background-color: #FFFFFF;
 			}
 		</style>
 	</head>
@@ -65,6 +69,7 @@
 				<div class = 'now'>
 					<h2>현재 상영중</h2>
 				</div>
+				<h2>개봉예정작</h2>
 				<table class="movie_table">
 					<thead>
 						<tr>
@@ -78,6 +83,33 @@
 						</tr>
 					</thead>
 					<tbody>
+						<tr>
+							<th>12월</th>
+							<th></th>
+							<th></th>
+							<th class="201200"></th>
+							<th></th>
+							<th></th>
+							<th></th>
+						</tr>
+						<tr>
+							<th>2021년</th>
+							<th></th>
+							<th></th>
+							<th class="210000"></th>
+							<th></th>
+							<th></th>
+							<th></th>
+						</tr>
+						<tr>
+							<th>2022년</th>
+							<th></th>
+							<th></th>
+							<th class="220000"></th>
+							<th></th>
+							<th></th>
+							<th></th>
+						</tr>
 					</tbody>
 				</table>
 			</div>
@@ -163,6 +195,23 @@
 					var poster = document.querySelector("img#poster");
 					poster.parentNode.removeChild(poster);
 				});
+			}
+			
+			function place_tr_on_table(tbody_,movie_,tr){
+				if(tbody_.childElementCount == 0){
+					tbody_.appendChild(tr);
+				}else{
+					if(movie_["release"]<parseInt(tbody_.children[0].children[3].className))
+						tbody_.prepend(tr);
+					for(var j = 0; j<tbody_.childElementCount-1 ; j++){
+						if(movie_["release"]>=parseInt(tbody_.children[j].children[3].className)&&movie_["release"]<parseInt(tbody_.children[j+1].children[3].className)){
+							tbody_.children[j].insertAdjacentElement('afterend', tr);
+						}
+					}
+					if(movie_["release"]>=parseInt(tbody_.children[j].children[3].className)){
+						tbody_.append(tr);
+					}
+				}
 			}
 			
 			function add_to_tbody(tbody_,movie_){
@@ -271,20 +320,8 @@
 					td.append(score_int);
 				}
 				tr.appendChild(td);
-				if(tbody_.childElementCount == 0){
-					tbody_.appendChild(tr);
-				}else{
-					if(movie_["release"]<parseInt(tbody_.children[0].children[3].className))
-						tbody_.prepend(tr);
-					for(var j = 0; j<tbody_.childElementCount-1 ; j++){
-						if(movie_["release"]>=parseInt(tbody_.children[j].children[3].className)&&movie_["release"]<parseInt(tbody_.children[j+1].children[3].className)){
-							tbody_.children[j].insertAdjacentElement('afterend', tr);
-						}
-					}
-					if(movie_["release"]>=parseInt(tbody_.children[j].children[3].className)){
-						tbody_.append(tr);
-					}
-				}
+				
+				place_tr_on_table(tbody_,movie_,tr);
 			}
 		</script>
 	</body>
