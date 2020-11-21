@@ -508,8 +508,7 @@
 			],
 			"where": [
 				{
-					"company": "HBO max",
-					"logo": "hm.png"
+					"company": "극장"
 				}
 			],
 			"trailer": "",
