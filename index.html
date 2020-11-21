@@ -54,7 +54,7 @@
 			footer.caption{
 				color: #bbbbbb;
 			}
-			h2{
+			h2,h3{
 				text-align:center;
 			}
 			.blank_row{
@@ -68,6 +68,7 @@
 			<div class = 'wrapper'>
 				<div class = 'now'>
 					<h2>현재 상영중</h2>
+					<h3>현재 상영작이 부족합니다.<h3>
 				</div>
 				<h2>개봉예정작</h2>
 				<table class="movie_table">
@@ -84,28 +85,28 @@
 					</thead>
 					<tbody>
 						<tr class="blank_row">
-							<th>12월</th>
-							<th></th>
-							<th></th>
-							<th class="201200"></th>
 							<th></th>
 							<th></th>
 							<th></th>
-						</tr>
-						<tr class="blank_row">
-							<th>2021년</th>
-							<th></th>
-							<th></th>
-							<th class="210000"></th>
+							<th class="201200">12월</th>
 							<th></th>
 							<th></th>
 							<th></th>
 						</tr>
 						<tr class="blank_row">
-							<th>2022년</th>
 							<th></th>
 							<th></th>
-							<th class="220000"></th>
+							<th></th>
+							<th class="210000">2021년</th>
+							<th></th>
+							<th></th>
+							<th></th>
+						</tr>
+						<tr class="blank_row">
+							<th></th>
+							<th></th>
+							<th></th>
+							<th class="220000">2022년</th>
 							<th></th>
 							<th></th>
 							<th></th>
@@ -167,6 +168,7 @@
 			document.querySelector("body > footer > div").innerHTML = '최근 업데이트: 2020년 '+convert_int_to_date(Res["update"])+"<br>문의: https://github.com/tark1998/movie_release/issues";
 			Res["movies"].forEach(function(movie){
 				if(0<movie["release"] && movie["release"]<today_int+1){
+					document.querySelector("body > div > div > div > h3").remove();
 					var img = document.createElement("img");
 					img.src = './poster/'+movie["poster"];
 					document.querySelector("body > div > div > div").appendChild(img);
