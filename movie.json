@@ -686,6 +686,9 @@
 				}
 			],
 			"where": [
+				{
+					"company": "극장"
+				}
 			],
 			"trailer": "https://youtu.be/4gbfQBH35wo",
 			"cast": [
