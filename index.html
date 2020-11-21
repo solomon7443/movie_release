@@ -174,7 +174,9 @@
 			document.querySelector("body > footer > div").innerHTML = '최근 업데이트: 2020년 '+convert_int_to_date(Res["update"])+"<br>문의: https://github.com/tark1998/movie_release/issues";
 			Res["movies"].forEach(function(movie){
 				if(0<movie["release"] && movie["release"]<today_int+1){
-					document.querySelector("body > div > div > div > h3").remove();
+					if(document.querySelector("body > div > div > div > h3")){
+						document.querySelector("body > div > div > div > h3").remove();
+					}
 					var img = document.createElement("img");
 					img.src = './poster/'+movie["poster"];
 					document.querySelector("body > div > div > div").appendChild(img);
