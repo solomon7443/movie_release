@@ -32,16 +32,16 @@
 				z-index: 9999;
 				background-color:transparent;
 			}
-			tr#new{
+			tr#new > td#release_date{
 				background-color: #ffff99;
 			}
-			tr#new:hover{
+			tr#new > td#release_date:hover{
 				background-color: #ffff33;
 			}
-			tr#delayed{
+			tr#delayed > td#release_date{
 				background-color: #ff6b66;
 			}
-			tr#delayed:hover{
+			tr#delayed > td#release_date:hover{
 				background-color: #ff0900;
 			}
 			td#score{
@@ -85,6 +85,9 @@
 		</footer>
 		<script>
 			function convert_int_to_date(n){
+				if(n==999999){
+					return '미정';
+				}
 				n = n+'';
 				var date_str = '';
 				
@@ -187,12 +190,7 @@
 				
 				var td = document.createElement("td");
 				td.id = 'release_date';
-				if(movie_["release"] == 999999){
-					td.innerText = '미정';
-				}
-				else{
-					td.innerText = convert_int_to_date(movie_["release"]);
-				}
+				td.innerText = convert_int_to_date(movie_["release"]);
 				td.classList.add(movie_["release"]);
 				tr.appendChild(td);
 				

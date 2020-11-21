@@ -183,7 +183,7 @@
 		},
 		{
 			"title": "귀멸의 칼날: 무한열차 편",
-			"release": 201299,
+			"release": 201210,
 			"director": [
 				"소토자키 하루오"
 			],
@@ -609,6 +609,10 @@
 				{
 					"company": "(주)메리크리스마스",
 					"logo": "mc.png"
+				},
+				{
+					"company": "넷플릭스",
+					"logo": "nf.jpg"
 				}
 			],
 			"trailer": "https://youtu.be/lnFc17ftfu4",
