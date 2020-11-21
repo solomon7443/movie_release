@@ -65,6 +65,7 @@
 					<thead>
 						<tr>
 							<th></th>
+							<th>플랫폼</th>
 							<th>제목</th>
 							<th>개봉일</th>
 							<th>감독</th>
@@ -170,6 +171,21 @@
 					img.src = "./logo/"+distrib["logo"];
 					img.title = distrib["company"];
 					td.appendChild(img);
+				});
+				tr.appendChild(td);
+				
+				var td = document.createElement("td");
+				td.id = 'where';
+				movie_["where"].forEach(function(where){
+					if(where["company"]=='극장'){
+						td.innerText = '극장';
+					}
+					else{
+						var img = document.createElement("img");
+						img.src = "./logo/"+where["logo"];
+						img.title = where["company"];
+						td.appendChild(img);
+					}
 				});
 				tr.appendChild(td);
 				

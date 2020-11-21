@@ -9,9 +9,10 @@
 				"왕가위"
 			],
 			"distribution": [
+			],
+			"where": [
 				{
-					"company": "넷플릭스",
-					"logo": "nf.jpg"
+					"company": "극장"
 				}
 			],
 			"trailer": "https://youtu.be/iSEgP38Y36w",
@@ -20,7 +21,7 @@
 				"장만옥"
 			],
 			"poster": "화양연화.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -33,155 +34,6 @@
 			}
 		},
 		{
-			"title": "테넷",
-			"release": 200826,
-			"director": [
-				"안토니오 캠포스"
-			],
-			"distribution": [
-				{
-					"company": "넷플릭스",
-					"logo": "nf.jpg"
-				}
-			],
-			"trailer": "https://youtu.be/XrchVySpc8s",
-			"cast": [
-				"톰 홀랜드"
-			],
-			"poster": "테넷.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
-			"title": "엑스맨: 뉴 뮤턴트",
-			"release": 200910,
-			"director": [
-				"안토니오 캠포스"
-			],
-			"distribution": [
-				{
-					"company": "넷플릭스",
-					"logo": "nf.jpg"
-				}
-			],
-			"trailer": "https://youtu.be/XrchVySpc8s",
-			"cast": [
-				"톰 홀랜드"
-			],
-			"poster": "엑스맨-뉴 뮤턴트.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
-			"title": "악마는 사라지지 않는다",
-			"release": 200916,
-			"director": [
-				"안토니오 캠포스"
-			],
-			"distribution": [
-				{
-					"company": "넷플릭스",
-					"logo": "nf.jpg"
-				}
-			],
-			"trailer": "https://youtu.be/XrchVySpc8s",
-			"cast": [
-				"톰 홀랜드"
-			],
-			"poster": "악마는 사라지지 않는다.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
-			"title": "뮬란",
-			"release": 200917,
-			"director": [
-				"토니 밴크로프트",
-				"배리 쿡"
-			],
-			"distribution": [
-				{
-					"company": "월트 디즈니",
-					"logo": "dn.png"
-				}
-			],
-			"trailer": "https://youtu.be/aZ38kLApSrM",
-			"cast": [
-				"유역비",
-				"견자단",
-				"이연결"
-			],
-			"poster": "뮬란.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 77,
-					"url": "https://www.rottentomatoes.com/m/mulan_2020"
-				}
-			}
-		},
-		{
-			"title": "에놀라 홈즈",
-			"release": 200923,
-			"director": [
-				"해리 브래드비어"
-			],
-			"distribution": [
-				{
-					"company": "넷플릭스",
-					"logo": "nf.jpg"
-				}
-			],
-			"trailer": "https://youtu.be/ZJEby-SJVGs",
-			"cast": [
-				"밀리 바비 브라운",
-				"헨리 카빌"
-			],
-			"poster": "에놀라 홈즈.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
 			"title": "귀멸의 칼날: 무한열차 편",
 			"release": 201210,
 			"director": [
@@ -189,8 +41,13 @@
 			],
 			"distribution": [
 				{
-					"company": "도호",
-					"logo": "dh.png"
+					"company": "애니플렉스",
+					"logo": "ap.png"
+				}
+			],
+			"where": [
+				{
+					"company": "극장"
 				}
 			],
 			"trailer": "https://youtu.be/lZRgPy_iRrY",
@@ -220,13 +77,18 @@
 					"logo": "wb.png"
 				}
 			],
+			"where": [
+				{
+					"company": "극장"
+				}
+			],
 			"trailer": "https://youtu.be/VXjGcWq6VnM",
 			"cast": [
 			],
 			"poster": "듄.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 1,
+				"true": 0,
 				"url": "https://variety.com/2020/film/box-office/dune-release-date-delayed-2021-1234767105/"
 			},
 			"score": {
@@ -246,6 +108,11 @@
 				{
 					"company": "20세기 폭스",
 					"logo": "20th.png"
+				}
+			],
+			"where": [
+				{
+					"company": "극장"
 				}
 			],
 			"trailer": "https://youtu.be/ujiLqutnym8",
@@ -279,6 +146,11 @@
 					"logo": "mb.png"
 				}
 			],
+			"where": [
+				{
+					"company": "극장"
+				}
+			],
 			"trailer": "https://youtu.be/BOEVQSprNv4",
 			"cast": [
 				"스칼렛 요한슨"
@@ -286,7 +158,7 @@
 			"poster": "블랙 위도우.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 1,
+				"true": 0,
 				"url": "https://www.chosun.com/entertainments/entertain_photo/2020/09/24/F5BASFSD62C7RS7VCSEE46FN3A/"
 			},
 			"score": {
@@ -304,16 +176,21 @@
 			],
 			"distribution": [
 				{
-					"company": "디즈니 플러스",
-					"logo": "dnp.png"
-				},
-				{
 					"company": "픽사",
 					"logo": "px.png"
 				},
 				{
 					"company": "월트디즈니",
 					"logo": "dn.png"
+				}
+			],
+			"where": [
+				{
+					"company": "극장"
+				},
+				{
+					"company": "디즈니 플러스",
+					"logo": "dnp.png"
 				}
 			],
 			"trailer": "https://youtu.be/Gs--6c7Hn_A",
@@ -341,6 +218,15 @@
 				{
 					"company": "워너 브라더스",
 					"logo": "wb.png"
+				}
+			],
+			"where": [
+				{
+					"company": "극장"
+				},
+				{
+					"company": "HBO max",
+					"logo": "hm.png"
 				}
 			],
 			"trailer": "https://youtu.be/2xIGFoD1f6s",
@@ -373,6 +259,11 @@
 					"logo": "dn.png"
 				}
 			],
+			"where": [
+				{
+					"company": "극장"
+				}
+			],
 			"trailer": "https://youtu.be/Wn7hhseWbmU",
 			"cast": [
 				"해리스 디킨슨"
@@ -400,6 +291,11 @@
 				{
 					"company": "워너 브라더스",
 					"logo": "mb.png"
+				}
+			],
+			"where": [
+				{
+					"company": "극장"
 				}
 			],
 			"trailer": "",
@@ -436,6 +332,11 @@
 					"logo": "wb.png"
 				}
 			],
+			"where": [
+				{
+					"company": "극장"
+				}
+			],
 			"trailer": "https://youtu.be/WYXhvWOn0Y8",
 			"cast": [
 				"자레드 레토"
@@ -465,6 +366,11 @@
 					"logo": "wb.png"
 				}
 			],
+			"where": [
+				{
+					"company": "극장"
+				}
+			],
 			"trailer": "https://youtu.be/Y7D-f7hxI7U",
 			"cast": [
 				"로버트 패틴슨",
@@ -474,7 +380,7 @@
 			"poster": "더 배트맨.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 1,
+				"true": 0,
 				"url": "https://www.cnbc.com/2020/10/05/the-batman-pushed-to-2022-as-warner-bros-shuffles-film-lineup.html"
 			},
 			"score": {
@@ -494,6 +400,11 @@
 				{
 					"company": "마블 픽처스",
 					"logo": "mb.png"
+				}
+			],
+			"where": [
+				{
+					"company": "극장"
 				}
 			],
 			"trailer": "",
@@ -526,6 +437,11 @@
 					"logo": "wb.png"
 				}
 			],
+			"where": [
+				{
+					"company": "극장"
+				}
+			],
 			"trailer": "",
 			"cast": [
 				"에디 레드메인",
@@ -552,6 +468,12 @@
 				"잭 스나이더"
 			],
 			"distribution": [
+				{
+					"company": "워너 브라더스",
+					"logo": "wb.png"
+				}
+			],
+			"where": [
 				{
 					"company": "HBO max",
 					"logo": "hm.png"
@@ -584,6 +506,12 @@
 					"logo": "20th.png"
 				}
 			],
+			"where": [
+				{
+					"company": "HBO max",
+					"logo": "hm.png"
+				}
+			],
 			"trailer": "",
 			"cast": [],
 			"poster": "아바타.jpg",
@@ -609,10 +537,12 @@
 				{
 					"company": "(주)메리크리스마스",
 					"logo": "mc.png"
-				},
+				}
+			],
+			"where": [
 				{
 					"company": "넷플릭스",
-					"logo": "nf.jpg"
+					"logo": "nf.png"
 				}
 			],
 			"trailer": "https://youtu.be/lnFc17ftfu4",
@@ -643,12 +573,13 @@
 			],
 			"distribution": [
 				{
-					"company": "넷플릭스",
-					"logo": "nf.jpg"
-				},
-				{
 					"company": "㈜넥스트엔터테인먼트월드",
 					"logo": "next.png"
+				}
+			],
+			"where": [
+				{
+					"company": "극장",
 				}
 			],
 			"trailer": "https://youtu.be/O3SxH_rspik",
@@ -658,7 +589,7 @@
 			"poster": "낙원의 밤.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 1,
+				"true": 0,
 				"url": "https://n.news.naver.com/entertain/article/241/0003059852"
 			},
 			"score": {
@@ -678,6 +609,11 @@
 				{
 					"company":"A24",
 					"logo":"A24.png"
+				}
+			],
+			"where": [
+				{
+					"company": "극장",
 				}
 			],
 			"trailer": "https://youtu.be/KQ0gFidlro8",
@@ -711,6 +647,11 @@
 					"logo": "uni.png"
 				}
 			],
+			"where": [
+				{
+					"company": "극장",
+				}
+			],
 			"trailer": "",
 			"cast": [
 				"다니엘 크레이크",
@@ -719,7 +660,7 @@
 			"poster": "007-노 타임 투 다이.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 1,
+				"true": 0,
 				"url": "https://www.mk.co.kr/news/world/view/2020/10/1011249/"
 			},
 			"score": {
@@ -745,6 +686,8 @@
 					"logo": "wb.png"
 				}
 			],
+			"where": [
+			],
 			"trailer": "https://youtu.be/4gbfQBH35wo",
 			"cast": [
 				"키아누 리브스"
@@ -752,7 +695,7 @@
 			"poster": "사이버펑크 2077.jpg",
 			"new": 1,
 			"delayed": {
-				"true": 1,
+				"true": 0,
 				"url": "https://twitter.com/CyberpunkGame/status/1321128432370176002"
 			},
 			"score": {
@@ -772,6 +715,11 @@
 				{
 					"company": "워너 브라더스",
 					"logo": "wb.png"
+				}
+			],
+			"where": [
+				{
+					"company": "극장",
 				}
 			],
 			"trailer": "https://youtu.be/c7YepYEKK0c",
@@ -802,6 +750,11 @@
 				{
 					"company": "소니 픽쳐스",
 					"logo": "sp.png"
+				}
+			],
+			"where": [
+				{
+					"company": "극장",
 				}
 			],
 			"trailer": "https://youtu.be/6kIsRs789zw",
