@@ -117,6 +117,15 @@
 							<th></th>
 							<th></th>
 						</tr>
+						<tr class="blank_row">
+							<th></th>
+							<th></th>
+							<th></th>
+							<th class="990000">미정 및 재작 확정</th>
+							<th></th>
+							<th></th>
+							<th></th>
+						</tr>
 					</tbody>
 				</table>
 			</div>
@@ -129,6 +138,9 @@
 		</footer>
 		<script>
 			function convert_int_to_date(n){
+				if(n==10000000){
+					return '재작 확정';
+				}
 				if(n==999999){
 					return '미정';
 				}
