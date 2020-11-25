@@ -326,6 +326,8 @@
 					var tomato = document.createElement('img');
 					if(score_tomato<60){
 						tomato.src = './tomato/rotten.png';
+					}else if(movie_["score"]["tomato"]["certified"]){
+						tomato.src = './tomato/cf.png';
 					}else{
 						tomato.src = './tomato/fresh.png';
 					}
