@@ -338,7 +338,7 @@
 			"poster": "소울.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 1,
+				"true": 0,
 				"url": "https://www.theverge.com/2020/10/8/21508491/pixar-soul-disney-plus-release-date-christmas-holidays-streaming-theaters"
 			},
 			"score": {
@@ -702,7 +702,7 @@
 				"유해진"
 			],
 			"poster": "승리호.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -774,7 +774,7 @@
 				"조여정"
 			],
 			"poster": "미나리.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -849,7 +849,7 @@
 				"키아누 리브스"
 			],
 			"poster": "사이버펑크 2077.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": "https://twitter.com/CyberpunkGame/status/1321128432370176002"
@@ -885,7 +885,7 @@
 				"남주혁"
 			],
 			"poster": "조제.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -922,7 +922,7 @@
 				"댄 애크로이드"
 			],
 			"poster": "고스트 버스터즈 라이즈.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
