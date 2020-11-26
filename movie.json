@@ -34,9 +34,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/LDG9bisJEaI",
 			"cast": [
@@ -74,9 +71,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/66_Iosx46DI",
 			"cast": [
@@ -114,9 +108,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/a4nAy81NMVQ",
 			"cast": [
@@ -146,9 +137,6 @@
 			"distribution": [
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/iSEgP38Y36w",
 			"cast": [
@@ -182,9 +170,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/lZRgPy_iRrY",
 			"cast": [],
@@ -215,9 +200,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/VXjGcWq6VnM",
 			"cast": [
@@ -249,9 +231,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/ujiLqutnym8",
 			"cast": [
@@ -286,9 +265,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/BOEVQSprNv4",
 			"cast": [
@@ -326,9 +302,6 @@
 			],
 			"where": [
 				{
-					"company": "극장"
-				},
-				{
 					"company": "디즈니 플러스",
 					"logo": "dnp.png"
 				}
@@ -362,9 +335,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				},
 				{
 					"company": "HBO max",
 					"logo": "hm.png"
@@ -402,9 +372,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/Wn7hhseWbmU",
 			"cast": [
@@ -437,9 +404,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "",
 			"cast": [
@@ -477,9 +441,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/WYXhvWOn0Y8",
 			"cast": [
@@ -512,9 +473,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/Y7D-f7hxI7U",
 			"cast": [
@@ -549,9 +507,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "",
 			"cast": [
@@ -585,9 +540,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "",
 			"cast": [
@@ -625,6 +577,9 @@
 				{
 					"company": "HBO max",
 					"logo": "hm.png"
+				},
+				{
+					"text": "(독점)"
 				}
 			],
 			"trailer": "https://youtu.be/z6512XKKNkU",
@@ -656,9 +611,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "",
 			"cast": [],
@@ -692,6 +644,9 @@
 				{
 					"company": "넷플릭스",
 					"logo": "nf.jpg"
+				},
+				{
+					"text": "(독점)"
 				}
 			],
 			"trailer": "https://youtu.be/lnFc17ftfu4",
@@ -728,9 +683,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/O3SxH_rspik",
 			"cast": [
@@ -763,9 +715,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/KQ0gFidlro8",
 			"cast": [
@@ -800,9 +749,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/PSpgQfVbMXA",
 			"cast": [
@@ -841,7 +787,7 @@
 			],
 			"where": [
 				{
-					"company": "극장"
+					"text": "게임"
 				}
 			],
 			"trailer": "https://youtu.be/4gbfQBH35wo",
@@ -875,9 +821,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/c7YepYEKK0c",
 			"cast": [
@@ -911,9 +854,6 @@
 				}
 			],
 			"where": [
-				{
-					"company": "극장"
-				}
 			],
 			"trailer": "https://youtu.be/6kIsRs789zw",
 			"cast": [
@@ -923,6 +863,70 @@
 			],
 			"poster": "고스트 버스터즈 라이즈.jpg",
 			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "데드풀 3",
+			"release": 1000000,
+			"director": [
+				"데이비드 리치"
+			],
+			"distribution": [
+				{
+					"company": "마블 픽쳐스",
+					"logo": "mb.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "",
+			"cast": [
+				"라이언 레이놀즈"
+			],
+			"poster": "데드풀2.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "데드풀 3",
+			"release": 1000000,
+			"director": [
+				"데이비드 리치"
+			],
+			"distribution": [
+				{
+					"company": "마블 픽쳐스",
+					"logo": "mb.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "",
+			"cast": [
+				"라이언 레이놀즈"
+			],
+			"poster": "데드풀2.jpg",
+			"new": 1,
 			"delayed": {
 				"true": 0,
 				"url": ""

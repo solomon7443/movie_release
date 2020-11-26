@@ -250,11 +250,10 @@
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
-				var only = 1;
 				td.id = 'where';
 				movie_["where"].forEach(function(where){
-					if(where["company"]=='극장'){
-						only = 0;
+					if(where["text"]){
+						td.append(where["text"]);
 					}
 					else{
 						var img = document.createElement("img");
@@ -263,9 +262,6 @@
 						td.appendChild(img);
 					}
 				});
-				if(only){
-					td.append('(독점)');
-				}
 				tr.appendChild(td);
 				
 				var td = document.createElement("td");
