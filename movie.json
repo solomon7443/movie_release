@@ -906,38 +906,6 @@
 					"url": ""
 				}
 			}
-		},
-		{
-			"title": "데드풀 3",
-			"release": 1000000,
-			"director": [
-				"데이비드 리치"
-			],
-			"distribution": [
-				{
-					"company": "마블 픽쳐스",
-					"logo": "mb.png"
-				}
-			],
-			"where": [
-			],
-			"trailer": "",
-			"cast": [
-				"라이언 레이놀즈"
-			],
-			"poster": "데드풀2.jpg",
-			"new": 1,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				}
-			}
 		}
 	]
 }
