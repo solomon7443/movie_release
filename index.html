@@ -339,6 +339,27 @@
 					score_int.style.float = 'left';
 					td.append(score_int);
 				}
+				
+				var score_imdb = movie_["score"]["imdb"]["score"];
+				if(score_imdb>0){
+					var imdb_wrap = document.createElement('a');
+					imdb_wrap.href = movie_["score"]["imdb"]["url"];
+					var imdb = document.createElement('img');
+					imdb.src = './imdb/imdb_star.png';
+					
+					imdb.style.height = '21px';
+					imdb.style.float = 'left';
+					
+					imdb_wrap.append(imdb);
+					imdb_wrap.style.float = 'left';
+					td.append(imdb_wrap);
+					
+					var score_int = document.createElement('div');
+					score_int.innerText = score_imdb+'';
+					score_int.style.float = 'left';
+					td.append(score_int);
+				}
+				
 				tr.appendChild(td);
 				
 				place_tr_on_table(tbody_,movie_,tr);
