@@ -1,6 +1,6 @@
 {
 	
-	"update":201124,
+	"update":201125,
 	"movies": [
 		{
 			"title": "맹크",
@@ -52,6 +52,7 @@
 			"score": {
 				"tomato": {
 					"score": 94,
+					"certified":1,
 					"url": "https://www.rottentomatoes.com/m/the_dark_knight"
 				}
 			}
@@ -91,6 +92,7 @@
 			"score": {
 				"tomato": {
 					"score": 72,
+					"certified":1,
 					"url": "https://www.rottentomatoes.com/m/interstellar_2014"
 				}
 			}
@@ -130,6 +132,7 @@
 			"score": {
 				"tomato": {
 					"score": 93,
+					"certified":1,
 					"url": "https://www.rottentomatoes.com/m/dunkirk_2017"
 				}
 			}
@@ -161,6 +164,7 @@
 			"score": {
 				"tomato": {
 					"score": 90,
+					"certified":1,
 					"url": "https://www.rottentomatoes.com/m/in_the_mood_for_love_2001"
 				}
 			}
@@ -193,6 +197,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -226,6 +231,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -262,6 +268,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -296,6 +303,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -336,6 +344,7 @@
 			"score": {
 				"tomato": {
 					"score": 100,
+					"certified":0,
 					"url": "https://www.rottentomatoes.com/m/soul_2020"
 				}
 			}
@@ -375,6 +384,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -409,6 +419,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -444,6 +455,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -482,6 +494,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -518,6 +531,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -553,6 +567,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -577,18 +592,19 @@
 			"trailer": "",
 			"cast": [
 				"에디 레드메인",
-				"조니 뎁",
+				"매즈 미켈슨",
 				"주드 로"
 			],
 			"poster": "신비한 동물사전 3.jpg",
-			"new": 0,
+			"new": 1,
 			"delayed": {
-				"true": 1,
+				"true": 0,
 				"url": "https://www.chosun.com/entertainments/entertain_photo/2020/11/10/UMP73AWYISH4DDOQTCRVC533YA/"
 			},
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -622,6 +638,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -654,6 +671,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -692,6 +710,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -726,6 +745,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -762,6 +782,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -797,6 +818,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -835,6 +857,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -870,6 +893,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
@@ -906,6 +930,7 @@
 			"score": {
 				"tomato": {
 					"score": 0,
+					"certified":0,
 					"url": ""
 				}
 			}
