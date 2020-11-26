@@ -183,7 +183,7 @@
 			
 			var Res = loadFile('./movie.json'+ '?' + (new Date()).getTime());;
 			Res = JSON.parse(Res);
-			document.querySelector("body > footer > div").innerHTML = '최근 업데이트: 2020년 '+convert_int_to_date(Res["update"])+"<br>문의: https://github.com/solomon7443/movie_release/pulls";
+			document.querySelector("body > footer > div").innerHTML = '최근 업데이트: 2020년 '+convert_int_to_date(Res["update"])+"<br>문의: https://github.com/solomon7443/movie_release/issues";
 			Res["movies"].forEach(function(movie){
 				if(0<movie["release"] && movie["release"]<today_int+1){
 					if(document.querySelector("body > div > div > div > h3")){
