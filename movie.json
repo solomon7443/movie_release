@@ -338,7 +338,7 @@
 					"logo": "dnp.png"
 				}
 			],
-			"trailer": "https://youtu.be/Gs--6c7Hn_A",
+			"trailer": "https://youtu.be/DrlhyuMN8do",
 			"cast": [],
 			"poster": "소울.jpg",
 			"new": 0,
@@ -376,7 +376,7 @@
 					"logo": "hm.png"
 				}
 			],
-			"trailer": "https://youtu.be/2xIGFoD1f6s",
+			"trailer": "https://youtu.be/AAPAGnERPjw",
 			"cast": [
 				"갤 가돗",
 				"크리스 파인"
@@ -994,6 +994,51 @@
 				"라이언 레이놀즈"
 			],
 			"poster": "데드풀2.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "스위트홈",
+			"release": 201218,
+			"director": [
+				"이응복"
+			],
+			"distribution": [
+				{
+					"company": "스튜디오 드래곤",
+					"logo": "sd.png"
+				}
+			],
+			"where": [
+				{
+					"company": "넷플릭스",
+					"logo": "nf.png"
+				},
+				{
+					"text": "(독점)"
+				}
+			],
+			"trailer": "https://youtu.be/2s3Qqp5LD24",
+			"cast": [
+				"이진욱",
+				"송강",
+				"이시영"
+			],
+			"poster": "스위트홈.jpg",
 			"new": 1,
 			"delayed": {
 				"true": 0,
