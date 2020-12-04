@@ -1,6 +1,6 @@
 {
 	
-	"update":201126,
+	"update":201204,
 	"movies": [
 		{
 			"title": "맹크",
@@ -220,6 +220,13 @@
 				}
 			],
 			"where": [
+				{
+					"company": "HBO max",
+					"logo": "hm.png"
+				},
+				{
+					"text": (동시에)
+				}
 			],
 			"trailer": "https://youtu.be/VXjGcWq6VnM",
 			"cast": [
@@ -374,6 +381,9 @@
 				{
 					"company": "HBO max",
 					"logo": "hm.png"
+				},
+				{
+					"text": (동시에)
 				}
 			],
 			"trailer": "https://youtu.be/AAPAGnERPjw",
@@ -1039,6 +1049,50 @@
 				"이시영"
 			],
 			"poster": "스위트홈.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "매트릭스4",
+			"release": 221222,
+			"director": [
+				"라나 워쇼스키"
+			],
+			"distribution": [
+				{
+					"company": "워너 브라더스",
+					"logo": "wb.png"
+				}
+			],
+			"where": [
+				{
+					"company": "HBO max",
+					"logo": "hm.png"
+				},
+				{
+					"text": (동시에)
+				}
+			],
+			"trailer": "",
+			"cast": [
+				"키아누 리브스",
+				"캐리앤 모스"
+			],
+			"poster": "매트릭스4.jpg",
 			"new": 1,
 			"delayed": {
 				"true": 0,
