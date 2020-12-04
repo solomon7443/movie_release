@@ -175,7 +175,7 @@
 		},
 		{
 			"title": "귀멸의 칼날: 무한열차 편",
-			"release": 201210,
+			"release": 999999,
 			"director": [
 				"소토자키 하루오"
 			],
@@ -192,8 +192,8 @@
 			"poster": "귀멸의 칼날-무한열차 편.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 0,
-				"url": ""
+				"true": 1,
+				"url": "https://www.mk.co.kr/star/movies/view/2020/12/1235075/"
 			},
 			"score": {
 				"tomato": {
