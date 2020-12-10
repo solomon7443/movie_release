@@ -1,6 +1,6 @@
 {
 	
-	"update":201204,
+	"update":201210,
 	"movies": [
 		{
 			"title": "맹크",
@@ -150,7 +150,7 @@
 			],
 			"where": [
 			],
-			"trailer": "https://youtu.be/iSEgP38Y36w",
+			"trailer": "https://youtu.be/WFxDkU-M-J0",
 			"cast": [
 				"양조위",
 				"장만옥"
@@ -325,7 +325,7 @@
 		},
 		{
 			"title": "소울",
-			"release": 201225,
+			"release": 210199,
 			"director": [
 				"피트 닥터"
 			],
@@ -350,8 +350,8 @@
 			"poster": "소울.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 0,
-				"url": "https://www.theverge.com/2020/10/8/21508491/pixar-soul-disney-plus-release-date-christmas-holidays-streaming-theaters"
+				"true": 1,
+				"url": "https://www.ytn.co.kr/_ln/0106_202012101001423925"
 			},
 			"score": {
 				"tomato": {
@@ -1042,7 +1042,7 @@
 					"text": "(독점)"
 				}
 			],
-			"trailer": "https://youtu.be/2s3Qqp5LD24",
+			"trailer": "https://youtu.be/B5IQqZDSRjk",
 			"cast": [
 				"이진욱",
 				"송강",
