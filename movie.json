@@ -1,145 +1,8 @@
 {
 	
-	"update":201210,
+	"update":210105,
 	"movies": [
-		{
-			"title": "맹크",
-			"release": 201118,
-			"poster": "맹크.jpg"
-		},
-		{
-			"title": "삼진그룹 영어토익반",
-			"release": 201112,
-			"poster": "삼진그룹 영어토익반.jpg"
-		},
-		{
-			"title": "런",
-			"release": 201120,
-			"poster": "런.jpg"
-		},
-		{
-			"title": "다크나이트",
-			"release": 201203,
-			"director": [
-				"크리스토퍼 놀란"
-			],
-			"distribution": [
-				{
-					"company": "워너 브라더스",
-					"logo": "wb.png"
-				},
-				{
-					"company": "아이맥스 레이저",
-					"logo": "iml.png"
-				}
-			],
-			"where": [
-			],
-			"trailer": "https://youtu.be/LDG9bisJEaI",
-			"cast": [
-				"크리스찬 베일",
-				"히스 레저"
-			],
-			"poster": "다크나이트.jpg",
-			"new": 1,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 94,
-					"certified":1,
-					"url": "https://www.rottentomatoes.com/m/the_dark_knight"
-				},
-				"imdb": {
-					"score": 9.0,
-					"url": "https://www.imdb.com/title/tt0468569/"
-				}
-			}
-		},
-		{
-			"title": "인터스텔라",
-			"release": 201203,
-			"director": [
-				"크리스토퍼 놀란"
-			],
-			"distribution": [
-				{
-					"company": "워너 브라더스",
-					"logo": "wb.png"
-				},
-				{
-					"company": "아이맥스 레이저",
-					"logo": "iml.png"
-				}
-			],
-			"where": [
-			],
-			"trailer": "https://youtu.be/66_Iosx46DI",
-			"cast": [
-				"매튜 맥커너히",
-				"앤 해서웨이"
-			],
-			"poster": "인터스텔라.jpg",
-			"new": 1,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 72,
-					"certified":1,
-					"url": "https://www.rottentomatoes.com/m/interstellar_2014"
-				},
-				"imdb": {
-					"score": 8.6,
-					"url": "https://www.imdb.com/title/tt0816692"
-				}
-			}
-		},
-		{
-			"title": "덩케르크",
-			"release": 201203,
-			"director": [
-				"크리스토퍼 놀란"
-			],
-			"distribution": [
-				{
-					"company": "워너 브라더스",
-					"logo": "wb.png"
-				},
-				{
-					"company": "아이맥스 레이저",
-					"logo": "iml.png"
-				}
-			],
-			"where": [
-			],
-			"trailer": "https://youtu.be/a4nAy81NMVQ",
-			"cast": [
-				"핀 화이트헤드",
-				"톰 하디"
-			],
-			"poster": "덩케르크.jpg",
-			"new": 1,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 93,
-					"certified":1,
-					"url": "https://www.rottentomatoes.com/m/dunkirk_2017"
-				},
-				"imdb": {
-					"score": 7.9,
-					"url": "https://www.imdb.com/title/tt5013056"
-				}
-			}
-		},
+		
 		{
 			"title": "화양연화, 4K 리마스터",
 			"release": 201224,
@@ -325,7 +188,7 @@
 		},
 		{
 			"title": "소울",
-			"release": 210199,
+			"release": 210120,
 			"director": [
 				"피트 닥터"
 			],
@@ -712,7 +575,7 @@
 		},
 		{
 			"title": "승리호",
-			"release": 201299,
+			"release": 210205,
 			"director": [
 				"조성희"
 			],
@@ -854,49 +717,6 @@
 			"delayed": {
 				"true": 0,
 				"url": "https://www.mk.co.kr/news/world/view/2020/10/1011249/"
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
-			"title": "사이버펑크 2077",
-			"release": 201210,
-			"director": [
-				"마르친 이빈스키"
-			],
-			"distribution": [
-				{
-					"company": "CD PROJEKT",
-					"logo": "cd.png"
-				},
-				{
-					"company": "워너 브라더스",
-					"logo": "wb.png"
-				}
-			],
-			"where": [
-				{
-					"text": "(게임)"
-				}
-			],
-			"trailer": "https://youtu.be/4gbfQBH35wo",
-			"cast": [
-				"키아누 리브스"
-			],
-			"poster": "사이버펑크 2077.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": "https://twitter.com/CyberpunkGame/status/1321128432370176002"
 			},
 			"score": {
 				"tomato": {
