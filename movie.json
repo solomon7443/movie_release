@@ -1,6 +1,6 @@
 {
 	
-	"update":210105,
+	"update":210121,
 	"movies": [
 		
 		{
@@ -38,7 +38,7 @@
 		},
 		{
 			"title": "귀멸의 칼날: 무한열차 편",
-			"release": 999999,
+			"release": 210127,
 			"director": [
 				"소토자키 하루오"
 			],
@@ -49,13 +49,20 @@
 				}
 			],
 			"where": [
+				{
+					"company": "메가",
+					"logo": "mg.png"
+				},
+				{
+					"text": "(독점)"
+				}
 			],
 			"trailer": "https://youtu.be/lZRgPy_iRrY",
 			"cast": [],
 			"poster": "귀멸의 칼날-무한열차 편.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 1,
+				"true": 0,
 				"url": "https://www.mk.co.kr/star/movies/view/2020/12/1235075/"
 			},
 			"score": {
@@ -274,7 +281,7 @@
 		},
 		{
 			"title": "킹스맨: 퍼스트 에이전트",
-			"release": 210212,
+			"release": 210312,
 			"director": [
 				"매튜 본"
 			],
@@ -347,7 +354,7 @@
 		},
 		{
 			"title": "모비우스",
-			"release": 210319,
+			"release": 211018,
 			"director": [
 				"다니엘 에스피노사"
 			],
@@ -481,7 +488,7 @@
 				"주드 로"
 			],
 			"poster": "신비한 동물사전 3.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": "https://www.chosun.com/entertainments/entertain_photo/2020/11/10/UMP73AWYISH4DDOQTCRVC533YA/"
@@ -500,7 +507,7 @@
 		},
 		{
 			"title": "스나이더의 저스티스 리그",
-			"release": 219999,
+			"release": 210325,
 			"director": [
 				"잭 스나이더"
 			],
@@ -657,7 +664,7 @@
 		},
 		{
 			"title": "미나리",
-			"release": 999999,
+			"release": 210399,
 			"director": [
 				"정이삭"
 			],
@@ -695,7 +702,7 @@
 		},
 		{
 			"title": "007: 노 타임 투 다이",
-			"release": 210421,
+			"release": 210402,
 			"director": [
 				"캐리 후쿠나가"
 			],
@@ -888,7 +895,7 @@
 		},
 		{
 			"title": "매트릭스4",
-			"release": 221222,
+			"release": 211222,
 			"director": [
 				"라나 워쇼스키"
 			],
@@ -913,7 +920,7 @@
 				"캐리앤 모스"
 			],
 			"poster": "매트릭스4.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
