@@ -955,11 +955,11 @@
 			],
 			"where": [
 				{
-					"company": "월트 디즈니",
+					"company": "디즈니 플러스",
 					"logo": "dn.png"
 				},
 				{
-					"text": "(동시에)"
+					"text":"(+극장)"
 				}
 			],
 			"trailer": "",
