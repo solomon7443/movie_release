@@ -936,6 +936,52 @@
 					"url": ""
 				}
 			}
+		},
+		{
+			"title": "루카",
+			"release": 210618,
+			"director": [
+				"엔리코 카사로사"
+			],
+			"distribution": [
+				{
+					"company": "월트 디즈니",
+					"logo": "dn.png"
+				},
+				{
+					"company": "픽사",
+					"logo": "px.png"
+				}
+			],
+			"where": [
+				{
+					"company": "월트 디즈니",
+					"logo": "dn.png"
+				},
+				{
+					"text": "(동시에)"
+				}
+			],
+			"trailer": "",
+			"cast": [
+			],
+			"poster": "루카.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
 		}
 	]
 }
