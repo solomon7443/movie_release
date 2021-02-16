@@ -628,7 +628,7 @@
 		},
 		{
 			"title": "낙원의 밤",
-			"release": 999999,
+			"release": 210409,
 			"director": [
 				"박훈정"
 			],
@@ -639,13 +639,20 @@
 				}
 			],
 			"where": [
+				{
+					"company": "넷플릭스",
+					"logo": "nf.jpg"
+				},
+				{
+					"text": "(독점)"
+				}
 			],
 			"trailer": "https://youtu.be/O3SxH_rspik",
 			"cast": [
 				"차승원"
 			],
 			"poster": "낙원의 밤.jpg",
-			"new": 0,
+			"new": 1,
 			"delayed": {
 				"true": 0,
 				"url": "https://n.news.naver.com/entertain/article/241/0003059852"
@@ -683,7 +690,7 @@
 				"조여정"
 			],
 			"poster": "미나리.jpg",
-			"new": 0,
+			"new": 1,
 			"delayed": {
 				"true": 0,
 				"url": ""
