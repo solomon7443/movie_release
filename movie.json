@@ -1,6 +1,6 @@
 {
 	
-	"update":210121,
+	"update":210225,
 	"movies": [
 		
 		{
@@ -969,7 +969,7 @@
 					"text":"(+극장)"
 				}
 			],
-			"trailer": "",
+			"trailer": "https://youtu.be/YdAIBlPVe9s",
 			"cast": [
 			],
 			"poster": "루카.jpg",
