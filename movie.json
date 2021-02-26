@@ -2,7 +2,39 @@
 	
 	"update":210225,
 	"movies": [
-		
+		{
+			"title": "화양연화, 4K 리마스터",
+			"release": 201224,
+			"director": [
+				"왕가위"
+			],
+			"distribution": [
+			],
+			"where": [
+			],
+			"trailer": "https://youtu.be/WFxDkU-M-J0",
+			"cast": [
+				"양조위",
+				"장만옥"
+			],
+			"poster": "완다비전.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 90,
+					"certified":1,
+					"url": "https://www.rottentomatoes.com/m/in_the_mood_for_love_2001"
+				},
+				"imdb": {
+					"score": 8.1,
+					"url": "https://www.imdb.com/title/tt0118694"
+				}
+			}
+		},
 		{
 			"title": "화양연화, 4K 리마스터",
 			"release": 201224,
