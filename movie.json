@@ -1021,6 +1021,48 @@
 					"url": ""
 				}
 			}
+		},
+		{
+			"title": "팔콘 앤 윈터 솔져",
+			"release": 210319,
+			"director": [
+				"케빈 파이기"
+			],
+			"distribution": [
+				{
+					"company": "마블 스튜디오",
+					"logo": "mb.png"
+				}
+			],
+			"where": [
+				{
+					"company": "디즈니 플러스",
+					"logo": "dnp.png"
+				},
+				{
+					"text":"(독점)"
+				}
+			],
+			"trailer": "https://www.youtube.com/watch?v=IWBsDaFWyTE",
+			"cast": [
+			],
+			"poster": "팔콘 앤 윈터 솔져.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
 		}
 	]
 }
