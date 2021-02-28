@@ -1066,6 +1066,44 @@
 					"url": ""
 				}
 			}
+		},
+		{
+			"title": "크루엘라",
+			"release": 210528,
+			"director": [
+				"크레이그 길레스피"
+			],
+			"distribution": [
+				{
+					"company": "월트 디즈니",
+					"logo": "dn.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "https://youtu.be/LARtwiKmRmk"
+			"cast": [
+				"엠마 스톤",
+				"엠마 톰슨",
+				"마크 스트롱"
+			],
+			"poster": "크루엘라.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
 		}
 	]
 }
