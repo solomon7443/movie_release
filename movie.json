@@ -1,6 +1,6 @@
 {
 	
-	"update":210225,
+	"update":210304,
 	"movies": [
 		{
 			"title": "화양연화, 4K 리마스터",
@@ -539,7 +539,7 @@
 		},
 		{
 			"title": "스나이더의 저스티스 리그",
-			"release": 210325,
+			"release": 210318,
 			"director": [
 				"잭 스나이더"
 			],
@@ -553,9 +553,6 @@
 				{
 					"company": "HBO max",
 					"logo": "hm.png"
-				},
-				{
-					"text": "(독점)"
 				}
 			],
 			"trailer": "https://youtu.be/z6512XKKNkU",
