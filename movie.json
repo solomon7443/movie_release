@@ -553,6 +553,14 @@
 				{
 					"company": "HBO max",
 					"logo": "hm.png"
+				},
+				{
+					"company": "웨이브",
+					"logo": "wv.jpg"
+				},
+				{
+					"company": "Google Play",
+					"logo": "gp.png"
 				}
 			],
 			"trailer": "https://youtu.be/z6512XKKNkU",
