@@ -1109,6 +1109,44 @@
 					"url": ""
 				}
 			}
+		},
+		{
+			"title": "토르: 러브 앤 썬더",
+			"release": 220506,
+			"director": [
+				"타이카 와이키키"
+			],
+			"distribution": [
+				{
+					"company": "마블",
+					"logo": "mb.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "",
+			"cast": [
+				"크리스 햄스워스",
+				"나탈리 포트만",
+				"테사 톰슨"
+			],
+			"poster": "토르-러브 앤 썬더.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
 		}
 	]
 }
