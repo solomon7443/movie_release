@@ -3,113 +3,6 @@
 	"update":210304,
 	"movies": [
 		{
-			"title": "화양연화, 4K 리마스터",
-			"release": 201224,
-			"director": [
-				"왕가위"
-			],
-			"distribution": [
-			],
-			"where": [
-			],
-			"trailer": "https://youtu.be/WFxDkU-M-J0",
-			"cast": [
-				"양조위",
-				"장만옥"
-			],
-			"poster": "완다비전.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 90,
-					"certified":1,
-					"url": "https://www.rottentomatoes.com/m/in_the_mood_for_love_2001"
-				},
-				"imdb": {
-					"score": 8.1,
-					"url": "https://www.imdb.com/title/tt0118694"
-				}
-			}
-		},
-		{
-			"title": "화양연화, 4K 리마스터",
-			"release": 201224,
-			"director": [
-				"왕가위"
-			],
-			"distribution": [
-			],
-			"where": [
-			],
-			"trailer": "https://youtu.be/WFxDkU-M-J0",
-			"cast": [
-				"양조위",
-				"장만옥"
-			],
-			"poster": "화양연화.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 90,
-					"certified":1,
-					"url": "https://www.rottentomatoes.com/m/in_the_mood_for_love_2001"
-				},
-				"imdb": {
-					"score": 8.1,
-					"url": "https://www.imdb.com/title/tt0118694"
-				}
-			}
-		},
-		{
-			"title": "귀멸의 칼날: 무한열차 편",
-			"release": 210127,
-			"director": [
-				"소토자키 하루오"
-			],
-			"distribution": [
-				{
-					"company": "애니플렉스",
-					"logo": "ap.png"
-				}
-			],
-			"where": [
-				{
-					"company": "메가박스",
-					"logo": "mg.png"
-				},
-				{
-					"text": "(독점)"
-				}
-			],
-			"trailer": "https://youtu.be/lZRgPy_iRrY",
-			"cast": [],
-			"poster": "귀멸의 칼날-무한열차 편.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": "https://www.mk.co.kr/star/movies/view/2020/12/1235075/"
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 8.4,
-					"url": "https://www.imdb.com/title/tt11032374"
-				}
-			}
-		},
-		{
 			"title": "듄",
 			"release": 211001,
 			"director": [
@@ -233,94 +126,8 @@
 			}
 		},
 		{
-			"title": "소울",
-			"release": 210120,
-			"director": [
-				"피트 닥터"
-			],
-			"distribution": [
-				{
-					"company": "픽사",
-					"logo": "px.png"
-				},
-				{
-					"company": "월트디즈니",
-					"logo": "dn.png"
-				}
-			],
-			"where": [
-				{
-					"company": "디즈니 플러스",
-					"logo": "dnp.png"
-				}
-			],
-			"trailer": "https://youtu.be/DrlhyuMN8do",
-			"cast": [],
-			"poster": "소울.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 1,
-				"url": "https://www.ytn.co.kr/_ln/0106_202012101001423925"
-			},
-			"score": {
-				"tomato": {
-					"score": 100,
-					"certified":0,
-					"url": "https://www.rottentomatoes.com/m/soul_2020"
-				},
-				"imdb": {
-					"score": 8.2,
-					"url": "https://www.imdb.com/title/tt2948372"
-				}
-			}
-		},
-		{
-			"title": "원더우먼 1984",
-			"release": 201223,
-			"director": [
-				"패티 젠킨스"
-			],
-			"distribution": [
-				{
-					"company": "워너 브라더스",
-					"logo": "wb.png"
-				}
-			],
-			"where": [
-				{
-					"company": "HBO max",
-					"logo": "hm.png"
-				},
-				{
-					"text": "(동시에)"
-				}
-			],
-			"trailer": "https://youtu.be/AAPAGnERPjw",
-			"cast": [
-				"갤 가돗",
-				"크리스 파인"
-			],
-			"poster": "원더우먼 1984.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": "https://variety.com/2020/film/news/wonder-woman-1984-delayed-christmas-1234766774/"
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
 			"title": "킹스맨: 퍼스트 에이전트",
-			"release": 210312,
+			"release": 211222,
 			"director": [
 				"매튜 본"
 			],
@@ -625,52 +432,6 @@
 			}
 		},
 		{
-			"title": "승리호",
-			"release": 210205,
-			"director": [
-				"조성희"
-			],
-			"distribution": [
-				{
-					"company": "(주)메리크리스마스",
-					"logo": "mc.png"
-				}
-			],
-			"where": [
-				{
-					"company": "넷플릭스",
-					"logo": "nf.jpg"
-				},
-				{
-					"text": "(독점)"
-				}
-			],
-			"trailer": "https://youtu.be/lnFc17ftfu4",
-			"cast": [
-				"송중기",
-				"김태리",
-				"진선규",
-				"유해진"
-			],
-			"poster": "승리호.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
 			"title": "낙원의 밤",
 			"release": 210409,
 			"director": [
@@ -789,43 +550,6 @@
 			}
 		},
 		{
-			"title": "조제",
-			"release": 201210,
-			"director": [
-				"김종관"
-			],
-			"distribution": [
-				{
-					"company": "워너 브라더스",
-					"logo": "wb.png"
-				}
-			],
-			"where": [
-			],
-			"trailer": "https://youtu.be/c7YepYEKK0c",
-			"cast": [
-				"한지민",
-				"남주혁"
-			],
-			"poster": "조제.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
 			"title": "고스트 버스터즈 라이즈",
 			"release": 210611,
 			"director": [
@@ -882,51 +606,6 @@
 				"라이언 레이놀즈"
 			],
 			"poster": "데드풀2.jpg",
-			"new": 1,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
-			"title": "스위트홈",
-			"release": 201218,
-			"director": [
-				"이응복"
-			],
-			"distribution": [
-				{
-					"company": "스튜디오 드래곤",
-					"logo": "sd.png"
-				}
-			],
-			"where": [
-				{
-					"company": "넷플릭스",
-					"logo": "nf.jpg"
-				},
-				{
-					"text": "(독점)"
-				}
-			],
-			"trailer": "https://youtu.be/B5IQqZDSRjk",
-			"cast": [
-				"이진욱",
-				"송강",
-				"이시영"
-			],
-			"poster": "스위트홈.jpg",
 			"new": 1,
 			"delayed": {
 				"true": 0,
