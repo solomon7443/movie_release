@@ -153,7 +153,7 @@
 		},
 		{
 			"title": "나일강의 죽음",
-			"release": 219999,
+			"release": 220211,
 			"director": [
 				"케네스 브래너"
 			],
@@ -175,7 +175,7 @@
 			"new": 0,
 			"delayed": {
 				"true": 0,
-				"url": ""
+				"url": "https://deadline.com/2021/03/black-widow-cruella-disney-plus-theaters-day-and-date-release-1234720116/"
 			},
 			"score": {
 				"tomato": {
@@ -191,7 +191,7 @@
 		},
 		{
 			"title": "블랙 위도우",
-			"release": 210507,
+			"release": 210709,
 			"director": [
 				"케이트 쇼틀랜드"
 			],
@@ -202,6 +202,13 @@
 				}
 			],
 			"where": [
+				{
+					"company": "디즈니 플러스",
+					"logo": "dnp.png"
+				},
+				{
+					"text": "(동시에)(추가요금有)"
+				}
 			],
 			"trailer": "https://youtu.be/BOEVQSprNv4",
 			"cast": [
@@ -210,8 +217,8 @@
 			"poster": "블랙 위도우.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 0,
-				"url": "https://www.chosun.com/entertainments/entertain_photo/2020/09/24/F5BASFSD62C7RS7VCSEE46FN3A/"
+				"true": 1,
+				"url": "https://deadline.com/2021/03/black-widow-cruella-disney-plus-theaters-day-and-date-release-1234720116/"
 			},
 			"score": {
 				"tomato": {
@@ -1085,6 +1092,13 @@
 				}
 			],
 			"where": [
+				{
+					"company": "디즈니 플러스",
+					"logo": "dnp.png"
+				},
+				{
+					"text": "(동시에)(추가요금有)"
+				}
 			],
 			"trailer": "https://youtu.be/LARtwiKmRmk",
 			"cast": [
