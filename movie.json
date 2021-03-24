@@ -277,7 +277,7 @@
 			}
 		},
 		{
-			"title": "스파이더맨 3",
+			"title": "스파이더맨: 노 웨이 홈",
 			"release": 211217,
 			"director": [
 				"존 왓츠"
@@ -879,6 +879,50 @@
 					"url": ""
 				}
 			}
-		}
+		},
+		{
+			"title": "로키",
+			"release": 210611,
+			"director": [
+				"케빈 파이기"
+			],
+			"distribution": [
+				{
+					"company": "마블 스튜디오",
+					"logo": "mb.png"
+				}
+			],
+			"where": [
+				{
+					"company": "디즈니 플러스",
+					"logo": "dnp.png"
+				},
+				{
+					"text":"(독점)"
+				}
+			],
+			"trailer": "",
+			"cast": [
+				"톰 히들스턴",
+				"오언 윌슨"
+			],
+			"poster": "로키.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
 	]
 }
