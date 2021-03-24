@@ -907,10 +907,10 @@
 				"오언 윌슨"
 			],
 			"poster": "로키.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
-				"true": 0,
-				"url": ""
+				"true": 1,
+				"url": "https://deadline.com/2021/03/black-widow-cruella-disney-plus-theaters-day-and-date-release-1234720116/"
 			},
 			"score": {
 				"tomato": {
