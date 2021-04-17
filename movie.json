@@ -923,6 +923,43 @@
 					"url": ""
 				}
 			}
+		},
+		{
+			"title": "브로커",
+			"release": 990000,
+			"director": [
+				"고레에다 히로카즈"
+			],
+			"distribution": [
+
+			],
+			"where": [
+
+			],
+			"trailer": "",
+			"cast": [
+				"송강호",
+				"강동원",
+				"배두나",
+				"이지은"
+			],
+			"poster": "",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
 		}
 	]
 }
