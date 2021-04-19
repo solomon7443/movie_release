@@ -960,6 +960,128 @@
 					"url": ""
 				}
 			}
+		},
+		{
+			"title": "러브, 데스 + 로봇 VOLUME 2",
+			"release": 210514,
+			"director": [
+				"데이비드 핀처"
+			],
+			"distribution": [
+				{
+					"company": "블러 스튜디오",
+					"logo": "bl.png"
+				}
+			],
+			"where": [
+				{
+					"company": "넷플릭스",
+					"logo": "nf.jpg"
+				},
+				{
+					"text": "(독점)"
+				}
+			],
+			"trailer": "https://youtu.be/Gj2iCJkp6Ko",
+			"cast": [
+			],
+			"poster": "러브, 데스 + 로봇.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "러브, 데스 + 로봇 VOLUME 2",
+			"release": 229999,
+			"director": [
+				"데이비드 핀처"
+			],
+			"distribution": [
+				{
+					"company": "블러 스튜디오",
+					"logo": "bl.png"
+				}
+			],
+			"where": [
+				{
+					"company": "넷플릭스",
+					"logo": "nf.jpg"
+				},
+				{
+					"text": "(독점)"
+				}
+			],
+			"trailer": "https://youtu.be/Gj2iCJkp6Ko",
+			"cast": [
+			],
+			"poster": "러브, 데스 + 로봇.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "샹치와 텐 링즈의 전설",
+			"release": 210999,
+			"director": [
+				"데스틴 대니얼 크레턴"
+			],
+			"distribution": [
+				{
+					"company": "마블 스튜디오",
+					"logo": "mb.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "https://youtu.be/RXmwnnF9OXE",
+			"cast": [
+				"시무 리우",
+				"양조위",
+				"아콰피나"
+			],
+			"poster": "샹치와 텐 링즈의 전설.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
 		}
 	]
 }
