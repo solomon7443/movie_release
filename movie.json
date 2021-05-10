@@ -352,52 +352,6 @@
 			}
 		},
 		{
-			"title": "스나이더의 저스티스 리그",
-			"release": 210318,
-			"director": [
-				"잭 스나이더"
-			],
-			"distribution": [
-				{
-					"company": "워너 브라더스",
-					"logo": "wb.png"
-				}
-			],
-			"where": [
-				{
-					"company": "HBO max",
-					"logo": "hm.png"
-				},
-				{
-					"company": "웨이브",
-					"logo": "wv.jpg"
-				},
-				{
-					"company": "Google Play",
-					"logo": "gp.png"
-				}
-			],
-			"trailer": "https://youtu.be/z6512XKKNkU",
-			"cast": [],
-			"poster": "스나이더의 저스티스 리그.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
 			"title": "아바타 2",
 			"release": 221216,
 			"director": [
@@ -415,87 +369,6 @@
 			"cast": [],
 			"poster": "아바타.jpg",
 			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
-			"title": "낙원의 밤",
-			"release": 210409,
-			"director": [
-				"박훈정"
-			],
-			"distribution": [
-				{
-					"company": "㈜넥스트엔터테인먼트월드",
-					"logo": "next.png"
-				}
-			],
-			"where": [
-				{
-					"company": "넷플릭스",
-					"logo": "nf.jpg"
-				},
-				{
-					"text": "(독점)"
-				}
-			],
-			"trailer": "https://youtu.be/t2dMYVKajJE",
-			"cast": [
-				"차승원"
-			],
-			"poster": "낙원의 밤.jpg",
-			"new": 1,
-			"delayed": {
-				"true": 0,
-				"url": "https://n.news.naver.com/entertain/article/241/0003059852"
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
-			"title": "미나리",
-			"release": 210303,
-			"director": [
-				"정이삭"
-			],
-			"distribution": [
-				{
-					"company":"A24",
-					"logo":"A24.png"
-				}
-			],
-			"where": [
-			],
-			"trailer": "https://youtu.be/KQ0gFidlro8",
-			"cast": [
-				"스티븐 연",
-				"한예리",
-				"조여정"
-			],
-			"poster": "미나리.jpg",
-			"new": 1,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -697,51 +570,6 @@
 			],
 			"poster": "루카.jpg",
 			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
-			"title": "팔콘 앤 윈터 솔져",
-			"release": 210319,
-			"director": [
-				"케빈 파이기"
-			],
-			"distribution": [
-				{
-					"company": "마블 스튜디오",
-					"logo": "mb.png"
-				}
-			],
-			"where": [
-				{
-					"company": "디즈니 플러스",
-					"logo": "dnp.png"
-				},
-				{
-					"text":"(독점)"
-				}
-			],
-			"trailer": "https://www.youtube.com/watch?v=IWBsDaFWyTE",
-			"cast": [
-				"앤서니 매키",
-				"세바스찬 스탠",
-				"다니엘 브륄"
-			],
-			"poster": "팔콘 앤 윈터 솔져.jpg",
-			"new": 1,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -982,7 +810,7 @@
 					"text": "(독점)"
 				}
 			],
-			"trailer": "https://youtu.be/Gj2iCJkp6Ko",
+			"trailer": "https://youtu.be/AUaXtfAFva8",
 			"cast": [
 			],
 			"poster": "러브, 데스 + 로봇.jpg",
@@ -1066,6 +894,88 @@
 				"아콰피나"
 			],
 			"poster": "샹치와 텐 링즈의 전설.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "베놈 2: 렛 데어 비 카니지",
+			"release": 210999,
+			"director": [
+				"앤디 서키스"
+			],
+			"distribution": [
+				{
+					"company": "마블 스튜디오",
+					"logo": "mb.png"
+				},
+				{
+					"company": "소니 픽쳐스",
+					"logo": "sp.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "https://youtu.be/V6aWnlhH6ug",
+			"cast": [
+				"톰 하디",
+				"우디 해럴슨"
+			],
+			"poster": "베놈 2-렛 데어 비 카니지.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "SOLOS",
+			"release": 210521,
+			"director": [
+				"David weil"
+			],
+			"distribution": [
+				{
+					"company": "아마존 스튜디오",
+					"logo": "as.png"
+				}
+			],
+			"where": [
+				{
+					"company": "프라임 비디오",
+					"logo": "pv.png"
+			],
+			"trailer": "https://youtu.be/zbIAIE8BBHE",
+			"cast": [
+				"모건 프리먼",
+				"앤 해서워이",
+				"앤서니 매키"
+			],
+			"poster": "SOLOS.jpg",
 			"new": 1,
 			"delayed": {
 				"true": 0,
