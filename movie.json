@@ -1,6 +1,6 @@
 {
 	
-	"update":210304,
+	"update":210613,
 	"movies": [
 		{
 			"title": "듄",
@@ -977,6 +977,282 @@
 				"앤서니 매키"
 			],
 			"poster": "SOLOS.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "레미니센스",
+			"release": 210820,
+			"director": [
+				"리사 조이"
+			],
+			"distribution": [
+				{
+					"company": "워너 브라더스",
+					"logo": "wb.png"
+				}
+			],
+			"where": [
+				{
+					"company": "HBO max",
+					"logo": "hm.png"
+				},{
+					"text": "(동시에)"
+				}
+			],
+			"trailer": "https://youtu.be/jLpKjmEko2M",
+			"cast": [
+				"휴 잭맨",
+				"레베카 페르구손",
+				"탠디 뉴턴"
+			],
+			"poster": "레미니센스.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "용과 주근깨 공주",
+			"release": 210716,
+			"director": [
+				"호소다 마모루"
+			],
+			"distribution": [
+				{
+					"company": "도호",
+					"logo": "dh.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "https://youtu.be/R1eM80jqTeM",
+			"cast": [
+			],
+			"poster": "용과 주근깨 공주.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "더 프렌치 디스패치",
+			"release": 2101022,
+			"director": [
+				"웨스 앤더슨"
+			],
+			"distribution": [
+				{
+					"company": "서치라이트 픽처스",
+					"logo": "slp.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "",
+			"cast": [
+				"베니시오 델 토로",
+				"프란시스 맥도맨드"
+			],
+			"poster": "더 프렌치 디스패치.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "킬러스 오브 더 플라워 문",
+			"release": 999999,
+			"director": [
+				"마틴 스콜세지"
+			],
+			"distribution": [
+				{
+					"company": "애플 tv +",
+					"logo": "atp.png"
+				}
+			],
+			"where": [
+				{
+					"company": "애플 tv +",
+					"logo": "atp.png"
+				},
+				{
+					"text": "(동시에)"
+				}
+			],
+			"trailer": "",
+			"cast": [
+				"레오나르도 디카프리오",
+				"로버트 드 니로"
+			],
+			"poster": "킬러스 오브 더 플라워 문.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "웨스트 사이드 스토리",
+			"release": 2101210,
+			"director": [
+				"스티븐 스필버그"
+			],
+			"distribution": [
+				{
+					"company": "20세기 스튜디오",
+					"logo": "20th.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "https://youtu.be/F9ka-TTnz1k",
+			"cast": [
+				"안셀 엘고트"
+			],
+			"poster": "웨스트 사이드 스토리.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "아쿠아맨과 잃어버린 왕국",
+			"release": 2101216,
+			"director": [
+				"제임스 완"
+			],
+			"distribution": [
+				{
+					"company": "DC 필름스",
+					"logo": "dc.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "",
+			"cast": [
+				"제이슨 모모아",
+				"엠버 허드"
+			],
+			"poster": "아쿠아맨과 잃어버린 왕국.jpg",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "킹덤: 아신전",
+			"release": 210723,
+			"director": [
+				"제임스 완"
+			],
+			"distribution": [
+				{
+					"company": "넷플릭스",
+					"logo": "nf.jpg"
+				}
+			],
+			"where": [
+				{
+					"company": "넷플릭스",
+					"logo": "nf.jpg"
+				},{
+					"text": "(독점)"
+				}
+			],
+			"trailer": "https://youtu.be/OU6XUR1ZKxE",
+			"cast": [
+				"전지현",
+				"박병은"
+			],
+			"poster": "킹덤-아신전.jpg",
 			"new": 1,
 			"delayed": {
 				"true": 0,
