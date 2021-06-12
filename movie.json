@@ -479,7 +479,7 @@
 				"라이언 레이놀즈"
 			],
 			"poster": "데드풀2.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -614,7 +614,7 @@
 				"마크 스트롱"
 			],
 			"poster": "크루엘라.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -691,7 +691,7 @@
 			"cast": [
 			],
 			"poster": "실크.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -772,7 +772,7 @@
 				"이지은"
 			],
 			"poster": "",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -814,7 +814,7 @@
 			"cast": [
 			],
 			"poster": "러브, 데스 + 로봇.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -856,7 +856,7 @@
 			"cast": [
 			],
 			"poster": "러브, 데스 + 로봇.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -894,7 +894,7 @@
 				"아콰피나"
 			],
 			"poster": "샹치와 텐 링즈의 전설.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -935,7 +935,7 @@
 				"우디 해럴슨"
 			],
 			"poster": "베놈 2-렛 데어 비 카니지.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -977,7 +977,7 @@
 				"앤서니 매키"
 			],
 			"poster": "SOLOS.jpg",
-			"new": 1,
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
@@ -1075,7 +1075,7 @@
 		},
 		{
 			"title": "더 프렌치 디스패치",
-			"release": 2101022,
+			"release": 211022,
 			"director": [
 				"웨스 앤더슨"
 			],
@@ -1156,7 +1156,7 @@
 		},
 		{
 			"title": "웨스트 사이드 스토리",
-			"release": 2101210,
+			"release": 211210,
 			"director": [
 				"스티븐 스필버그"
 			],
@@ -1192,7 +1192,7 @@
 		},
 		{
 			"title": "아쿠아맨과 잃어버린 왕국",
-			"release": 2101216,
+			"release": 211216,
 			"director": [
 				"제임스 완"
 			],
