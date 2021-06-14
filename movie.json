@@ -84,7 +84,7 @@
 		},
 		{
 			"title": "블랙 위도우",
-			"release": 210709,
+			"release": 210707,
 			"director": [
 				"케이트 쇼틀랜드"
 			],
@@ -110,8 +110,8 @@
 			"poster": "블랙 위도우.jpg",
 			"new": 0,
 			"delayed": {
-				"true": 1,
-				"url": "https://deadline.com/2021/03/black-widow-cruella-disney-plus-theaters-day-and-date-release-1234720116/"
+				"true": 0,
+				"url": ""
 			},
 			"score": {
 				"tomato": {
@@ -175,7 +175,7 @@
 			],
 			"where": [
 			],
-			"trailer": "",
+			"trailer": "https://youtu.be/JGW4Ec2Hyhc",
 			"cast": [
 				"마동석",
 				"안젤리나 졸리"
@@ -542,7 +542,7 @@
 		},
 		{
 			"title": "루카",
-			"release": 210618,
+			"release": 210617,
 			"director": [
 				"엔리코 카사로사"
 			],
