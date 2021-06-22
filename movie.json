@@ -1269,6 +1269,41 @@
 					"url": ""
 				}
 			}
+		},
+		{
+			"title": "랑종",
+			"release": 210714,
+			"director": [
+				"반종 피산다나쿤"
+			],
+			"distribution": [
+				{
+					"company": "쇼박스",
+					"logo": "sb.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "https://youtu.be/yC62Q_qAdgY",
+			"cast": [
+			],
+			"poster": "랑종.jpg",
+			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
 		}
 	]
 }
