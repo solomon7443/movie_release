@@ -1,6 +1,6 @@
 {
 	
-	"update":210613,
+	"update":210626,
 	"movies": [
 		{
 			"title": "듄",
@@ -887,7 +887,7 @@
 			],
 			"where": [
 			],
-			"trailer": "https://youtu.be/RXmwnnF9OXE",
+			"trailer": "https://youtu.be/Pj7CadRf82k",
 			"cast": [
 				"시무 리우",
 				"양조위",
@@ -1289,6 +1289,41 @@
 			],
 			"poster": "랑종.jpg",
 			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "씽2게더",
+			"release": 220105,
+			"director": [
+				"가스 제닝스"
+			],
+			"distribution": [
+				{
+					"company": "일루미네이션 엔터테인먼트",
+					"logo": "in.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "https://youtu.be/EPZu5MA2uqI",
+			"cast": [
+			],
+			"poster": "씽2게더.jpg",
+			"new": 1,
 			"delayed": {
 				"true": 0,
 				"url": ""
