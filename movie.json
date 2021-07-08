@@ -1,6 +1,6 @@
 {
 	
-	"update":210626,
+	"update":210709,
 	"movies": [
 		{
 			"title": "듄",
@@ -1289,6 +1289,83 @@
 			],
 			"poster": "랑종.jpg",
 			"new": 0,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "왓 이프...?",
+			"release": 210811,
+			"director": [
+				"케빈 파이기"
+			],
+			"distribution": [
+				{
+					"company": "마블 엔터테인먼트",
+					"logo": "mb.png"
+				}
+			],
+			"where": [
+				{
+					"company": "디즈니 플러스",
+					"logo": "dnp.png"
+				},
+				{
+					"text":(독점)
+				}
+			],
+			"trailer": "https://youtu.be/x9D0uUKJ5KI",
+			"cast": [
+			],
+			"poster": "왓 이프.png",
+			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "엔칸토: 마법의 세계",
+			"release": 211124,
+			"director": [
+				"바이런 하워드"
+			],
+			"distribution": [
+				{
+					"company": "월트 디즈니",
+					"logo": "dn.png"
+				}
+			],
+			"where": [
+			],
+			"trailer": "https://youtu.be/togmdDHG3Pw",
+			"cast": [
+			],
+			"poster": "엔칸토.jpg",
+			"new": 1,
 			"delayed": {
 				"true": 0,
 				"url": ""
