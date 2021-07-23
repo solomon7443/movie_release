@@ -4,7 +4,7 @@
 	"movies": [
 		{
 			"title": "듄",
-			"release": 211001,
+			"release": 211022,
 			"director": [
 				"드니 빌뇌브"
 			],
@@ -23,11 +23,11 @@
 					"text": "(동시에)"
 				}
 			],
-			"trailer": "https://youtu.be/VXjGcWq6VnM",
+			"trailer": "https://youtu.be/NzB4XWAroj8",
 			"cast": [
 			],
 			"poster": "듄.jpg",
-			"new": 0,
+			"new": 1,
 			"delayed": {
 				"true": 0,
 				"url": "https://variety.com/2020/film/box-office/dune-release-date-delayed-2021-1234767105/"
@@ -541,97 +541,6 @@
 			}
 		},
 		{
-			"title": "루카",
-			"release": 210617,
-			"director": [
-				"엔리코 카사로사"
-			],
-			"distribution": [
-				{
-					"company": "월트 디즈니",
-					"logo": "dn.png"
-				},
-				{
-					"company": "픽사",
-					"logo": "px.png"
-				}
-			],
-			"where": [
-				{
-					"company": "디즈니 플러스",
-					"logo": "dnp.png"
-				},
-				{
-					"text":"(+극장)"
-				}
-			],
-			"trailer": "https://youtu.be/YdAIBlPVe9s",
-			"cast": [
-			],
-			"poster": "루카.gif",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
-			"title": "크루엘라",
-			"release": 210526,
-			"director": [
-				"크레이그 길레스피"
-			],
-			"distribution": [
-				{
-					"company": "월트 디즈니",
-					"logo": "dn.png"
-				}
-			],
-			"where": [
-				{
-					"company": "디즈니 플러스",
-					"logo": "dnp.png"
-				},
-				{
-					"text": "(동시에)(추가요금有)"
-				}
-			],
-			"trailer": "https://youtu.be/qUdg-YCFZRo",
-			"cast": [
-				"엠마 스톤",
-				"엠마 톰슨",
-				"마크 스트롱"
-			],
-			"poster": "크루엘라.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
 			"title": "토르: 러브 앤 썬더",
 			"release": 220506,
 			"director": [
@@ -790,48 +699,6 @@
 			}
 		},
 		{
-			"title": "러브, 데스 + 로봇 VOL. 2",
-			"release": 210514,
-			"director": [
-				"데이비드 핀처"
-			],
-			"distribution": [
-				{
-					"company": "블러 스튜디오",
-					"logo": "bl.png"
-				}
-			],
-			"where": [
-				{
-					"company": "넷플릭스",
-					"logo": "nf.jpg"
-				},
-				{
-					"text": "(독점)"
-				}
-			],
-			"trailer": "https://youtu.be/AUaXtfAFva8",
-			"cast": [
-			],
-			"poster": "러브, 데스 + 로봇.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
 			"title": "러브, 데스 + 로봇 VOL. 3",
 			"release": 229999,
 			"director": [
@@ -935,48 +802,6 @@
 				"우디 해럴슨"
 			],
 			"poster": "베놈 2-렛 데어 비 카니지.jpg",
-			"new": 0,
-			"delayed": {
-				"true": 0,
-				"url": ""
-			},
-			"score": {
-				"tomato": {
-					"score": 0,
-					"certified":0,
-					"url": ""
-				},
-				"imdb": {
-					"score": 0,
-					"url": ""
-				}
-			}
-		},
-		{
-			"title": "SOLOS",
-			"release": 210521,
-			"director": [
-				"David weil"
-			],
-			"distribution": [
-				{
-					"company": "아마존 스튜디오",
-					"logo": "as.png"
-				}
-			],
-			"where": [
-				{
-					"company": "프라임 비디오",
-					"logo": "pv.png"
-				}
-			],
-			"trailer": "https://youtu.be/zbIAIE8BBHE",
-			"cast": [
-				"모건 프리먼",
-				"앤 해서워이",
-				"앤서니 매키"
-			],
-			"poster": "SOLOS.jpg",
 			"new": 0,
 			"delayed": {
 				"true": 0,
@@ -1443,6 +1268,48 @@
 			],
 			"poster": "터닝 레드.jpg",
 			"new": 1,
+			"delayed": {
+				"true": 0,
+				"url": ""
+			},
+			"score": {
+				"tomato": {
+					"score": 0,
+					"certified":0,
+					"url": ""
+				},
+				"imdb": {
+					"score": 0,
+					"url": ""
+				}
+			}
+		},
+		{
+			"title": "더 수어사이드 스쿼드",
+			"release": 210805,
+			"director": [
+				"제임스 건"
+			],
+			"distribution": [
+				{
+					"company": "디시 필름스",
+					"logo": "dc.png"
+				}
+			],
+			"where": [
+				{
+					"company": "HBO max",
+					"logo": "hm.png"
+				},
+				{
+					"text": "(동시에)"
+				}
+			],
+			"trailer": "https://youtu.be/Ur8ddcVj7kE",
+			"cast": [
+			],
+			"poster": "더 수어사이드 스쿼드.jpg",
+			"new": 0,
 			"delayed": {
 				"true": 0,
 				"url": ""
